@@ -1,15 +1,14 @@
 body {
     margin: 0 auto;
     max-width: 48em;
-    font-family: "Lucida Console", Monaco, monospace;
+    font-family: "Lato", monospace;
     line-height: 1.5;
     padding: 4em 1em;
     color: #566b78;
     font-size: 16px;
 }
-
 h1 {
-    font-family: "Lucida Console", Monaco, monospace;
+    font-family: "Lato", monospace;
 }
 
 h2 {
