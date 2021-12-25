@@ -1,15 +1,14 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://aakritikumar.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/aakriti1kumar"
+footer_text: ""
 
 sass:
     style: compressed
@@ -18,7 +17,12 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "CV"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Projects"
+   link: "projects"
+ - name: "Miscellaneous"
+   link: "miscellaneous"
+
