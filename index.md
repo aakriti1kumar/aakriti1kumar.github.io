@@ -12,8 +12,11 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 
 
 
+
+
 ## News
 
 
-Dec 2021 Awarded a research fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) 
-Nov 2021 Presented our work on [Metacognitive Bandits and Algorithm Aversion](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf) at Psychonomics 2021
+Dec 2021:  Awarded a fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) for 2022
+
+Nov 2021:  Presented our work on [Metacognitive Bandits and Algorithm Aversion](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf) at Psychonomics 2021
