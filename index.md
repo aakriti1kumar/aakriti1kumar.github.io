@@ -7,10 +7,7 @@ I am a Ph.D. student in the Department of Cognitive Sciences and a [Noyce fellow
 I'm interested in modeling the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and cognitive modeling, my past work has examined how humans assess AI ability, how they incorporate AI advice in their decisions, what biases they display when working with AI, and what affects their trust in AI assistance.
 
 
-## Projects
-
-
-
+## Publications
 
 
 
