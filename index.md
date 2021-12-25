@@ -1,6 +1,6 @@
 ## About Me
 
-<p><img src="image.jpg" /></p>
+<p><img class = "profile-picture" src="image.jpg" /></p>
 
 I am a Ph.D. student in the Department of Cognitive Sciences and a [Noyce fellow](https://ucinoyce.org/) at UC Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction.
 
