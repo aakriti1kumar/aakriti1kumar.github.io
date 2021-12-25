@@ -38,5 +38,25 @@
     }
     
 
-   .profile-picture{height:200px;width:200px;position:relative;margin:-10px 0 20px 20px;float:right;border-radius:50%}p .content 
-    .profile-picture{padding:0;margin:0}@media (max-width: 480px){.content .profile-picture img{margin-top:-5px}}.content img{text-align:center;width:100%}
+.profile-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -10px 0 0 15px;
+        float: right;
+        border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    img {
+        text-align: center;
+        width: 100%;
+    }
+}
