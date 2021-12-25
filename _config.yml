@@ -1,6 +1,6 @@
 title: Aakriti Kumar
 url: "https://aakritikumar.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "index"
  - name: "CV"
    link: "CV.pdf"
  - name: "Contact"
