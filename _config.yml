@@ -1,5 +1,7 @@
 title: Researcher
 url: "https://aakritikumar.com"
+baseurl: "/researcher"
+
 remote_theme: "ankitsultana/researcher@gem"
 markdown: kramdown
 
