@@ -23,6 +23,6 @@ nav:
    link: "contact"
  - name: "Projects"
    link: "projects"
- - name: "Miscellaneous"
-   link: "miscellaneous"
+ - name: "Random"
+   link: "random"
 
