@@ -11,7 +11,7 @@ footer_text: ""
 
 sass:
     style: compressed
-    sass_dir: _sass
+    sass_dir: 
 
 nav:
  - name: "About"
