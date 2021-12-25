@@ -10,7 +10,6 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 ## Publications
 
 
-
 ## Updates
 
 
