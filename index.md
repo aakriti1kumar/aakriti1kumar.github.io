@@ -14,7 +14,7 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 
 
 
-## News
+## Updates
 
 
 Dec 2021:  Awarded a fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) for 2022
