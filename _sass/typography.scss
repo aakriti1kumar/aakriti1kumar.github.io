@@ -37,3 +37,26 @@
         font-style: italic;
     }
     
+
+   .profile-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -20px 0 0 25px;
+        float: right;
+        border-radius: 80%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    img {
+        text-align: center;
+        width: 100%;
+    }
+}
