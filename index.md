@@ -16,7 +16,7 @@ Explaining Algorithm Aversion with Metacognitive Bandits [paper]<br>
 <br>
 
 Metacognitive Bandits: When Do Humans Seek AI Assistance?<br>
-*Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021)<br>
+*Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers* (2021)<br>
 *Social Intelligence in Humans and Robots Workshop, ICRA 2021* <br>
 *Psychonomics 2021*<br>
 <br>
