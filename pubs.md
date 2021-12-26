@@ -1,6 +1,4 @@
 
-## Publications
-
 [**Explaining Algorithm Aversion with Metacognitive Bandits**](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)   
 Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).    
 Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021.   
