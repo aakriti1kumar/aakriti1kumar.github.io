@@ -1,3 +1,5 @@
+Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en).
+<br>
 
 [**Explaining Algorithm Aversion with Metacognitive Bandits**](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)   
 Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).    
