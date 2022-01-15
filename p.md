@@ -7,7 +7,7 @@ negative—correlations are difficult to recover with the accuracy that would al
 definitive answer to this basic question. This statement of poor recovery holds for
 hierarchical models that are extended to the trial level.<br>
 <p align="center">
-  <img src="strooptask.png" width = 30/>
+  <img src="strooptask.svg" width = 30/>
 </p>
 <br>
 Why this depressing state-of-affairs occurs is fairly straightforward. Relative to trial
