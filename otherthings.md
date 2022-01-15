@@ -3,13 +3,13 @@ This year I've set a goal of reading [36 books](https://www.goodreads.com/user_c
 
 Here's my reading list from the last few years: 
 
-  * [2021: 21 books](https://www.goodreads.com/user_challenges/2594617)
+  - [2021: 21 books](https://www.goodreads.com/user_challenges/2594617)
 
 
-  * [2020: 25 books](https://www.goodreads.com/user_challenges/19526861)
+  - [2020: 25 books](https://www.goodreads.com/user_challenges/19526861)
 
 
-  * [2019: 25 books](https://www.goodreads.com/user_challenges/18225877)
+  - [2019: 25 books](https://www.goodreads.com/user_challenges/18225877)
 <br>
 
 * I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
