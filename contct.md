@@ -1,4 +1,4 @@
-* Email: [aakriti1kumar@gmail.com](aakriti1kumar@gmail.com)
+* Email: [aakriti1kumar@gmail.com](mailto:aakriti1kumar@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/aakriti1kumar/)
 
