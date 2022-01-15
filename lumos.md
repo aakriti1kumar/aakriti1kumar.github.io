@@ -1,8 +1,5 @@
-<p>
-  <img src="/game1.png" width="50" />
-  <img src="/game2.png" width="50" /> 
-</p>
-Sh
+![](game1.png) | ![](game2.png) 
+
 Screenshots of two cognitive games from the Lumosity platform that we looked at in this research: Lost in Migration
 (flanker task) and Ebb and Flow (task switching)
 
