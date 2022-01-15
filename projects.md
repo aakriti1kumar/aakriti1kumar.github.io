@@ -4,9 +4,8 @@
 ### [Trust between Humans and AI](trust.md)
 [[Paper]](trust_review.pdf)<br>
 
-### [Learning and Retention in Large-scale Cognitive Training Data Sets](lumos.md)<br>
-
-
 ### [Why Most Studies of Individual Differences With Inhibition Tasks Are Bound To Fail](p.md)
 [[Paper]](p.pdf)<br>
+
+### [Learning and Retention in Large-scale Cognitive Training Data Sets](lumos.md)<br>
 
