@@ -15,7 +15,6 @@ Here's my reading list from the last few years:
 * I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
 <br>
 
-* I also like to browse academic [twitter](https://twitter.com/aakriti1kumar).
 
 
 <p style=" position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Acknowledgment:
