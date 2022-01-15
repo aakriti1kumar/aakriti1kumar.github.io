@@ -8,7 +8,7 @@ Here's my reading list from the last few years:
 <br>
 <br>
 
-I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
+I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself singing and strumming my ukelele. 
 <br>
 
 
