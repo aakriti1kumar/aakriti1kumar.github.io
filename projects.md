@@ -1,12 +1,12 @@
-### [Metacognitive Bandits](metaban.md)<br>
-[[Slides]](metaban.pdf) [[Paper]](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)
+### [Metacognitive Bandits](metaban.md)
+[[Slides]](metaban.pdf) [[Paper]](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)<br>
 
-### [Trust between Humans and AI](trust.md)<br>
-[Paper](trust_review.pdf)
+### [Trust between Humans and AI](trust.md)
+[Paper](trust_review.pdf)<br>
 
 ### [Learning and Retention in Large-scale Cognitive Training Data Sets](lumos.md)<br>
 
 
-### [Why Most Studies of Individual Differences With Inhibition Tasks Are Bound To Fail](p.md)<br>
-[Paper](p.pdf)
+### [Why Most Studies of Individual Differences With Inhibition Tasks Are Bound To Fail](p.md)
+[Paper](p.pdf)<br>
 
