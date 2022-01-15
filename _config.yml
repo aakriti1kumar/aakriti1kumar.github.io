@@ -25,4 +25,6 @@ nav:
    link: "projects"
  - name: "Other Things"
    link: "otherthings"
+ - name: "Contact"
+   link: "contact"
 
