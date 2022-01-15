@@ -17,6 +17,7 @@ Here's my reading list from the last few years:
 
 * I also like to browse academic [twitter](https://twitter.com/aakriti1kumar).
 
-* <p style=" position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Acknowledgment:
+
+<p style=" position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">Acknowledgment:
 The template for my website is based on <a href="https://maria-antoniak.github.io/">Maria Antoniak's</a> website.</p>	
 
