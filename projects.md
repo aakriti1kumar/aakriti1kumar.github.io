@@ -1,5 +1,5 @@
-[# Metacognitive Bandits](metaban.md)
-[Slides](psychonomics.pdf)
+# [Metacognitive Bandits](metaban.md)<br>
+[Slides](metaban.pdf)
 
 
 
