@@ -6,9 +6,9 @@ We consider typically large studies that enroll hundreds of participants. The an
 negative—correlations are difficult to recover with the accuracy that would allow for a
 definitive answer to this basic question. This statement of poor recovery holds for
 hierarchical models that are extended to the trial level.
-
-![](stroop.png)
-
+<p align="center">
+  <img src="stroop.png" />
+</p>
 Why this depressing state-of-affairs occurs is fairly straightforward. Relative to trial
 noise, there is little true individual variation in inhibition tasks. To see why this is so,
 consider an average effect, say one that is 50 ms. In inhibition tasks like Stroop and flanker,
