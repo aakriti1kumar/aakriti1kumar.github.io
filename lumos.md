@@ -1,4 +1,4 @@
-<p float="left">
+<p>
   <img src="/game1.png" width="50" />
   <img src="/game2.png" width="50" /> 
 </p>
