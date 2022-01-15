@@ -5,10 +5,10 @@ this paper, we have explored whether correlations across inhibition tasks may be
 We consider typically large studies that enroll hundreds of participants. The answer is
 negative—correlations are difficult to recover with the accuracy that would allow for a
 definitive answer to this basic question. This statement of poor recovery holds for
-hierarchical models that are extended to the trial level.
+hierarchical models that are extended to the trial level.<br>
 <p align="center">
   <img src="stroop.png" />
-</p>
+</p><br>
 Why this depressing state-of-affairs occurs is fairly straightforward. Relative to trial
 noise, there is little true individual variation in inhibition tasks. To see why this is so,
 consider an average effect, say one that is 50 ms. In inhibition tasks like Stroop and flanker,
@@ -22,7 +22,7 @@ amount of variation compared to trial variability, which is typically 7 times la
 small degree of variation necessarily implies a small degree of covariation across tasks. This
 small degree of covariation is beyond the resolution of our experimental designs, and that is
 why our studies fail.
-
+<br>
 We believe this problem of localizing individual differences and correlations extends
 beyond inhibition tasks. It likely holds broadly in most task domains as most tasks have
 relatively small effects, whether on the order of 50 ms for RT, on the order of .08 for
