@@ -1,8 +1,8 @@
 I keep track of the books I read using [Goodreads](https://www.goodreads.com/user/show/36976329-aakriti-kumar).
 
-This year I've set myself a challenge of reading [36 books](https://www.goodreads.com/user_challenges/31518884).
+This year I've set a goal of reading [36 books](https://www.goodreads.com/user_challenges/31518884).
 
-Here are my past challenges: 
+Here's my reading list from the last few years: 
 
 [2021: 21 books](https://www.goodreads.com/user_challenges/2594617)
 
