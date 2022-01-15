@@ -9,9 +9,8 @@ Here's my reading list from the last few years:
 [2020: 25 books](https://www.goodreads.com/user_challenges/19526861)
 
 [2019: 25 books](https://www.goodreads.com/user_challenges/18225877)
-
-
+<br>
 I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
-
-I also like to keep a tab on academic [twitter](https://twitter.com/aakriti1kumar).
+<br>
+I also like to browse academic [twitter](https://twitter.com/aakriti1kumar).
 
