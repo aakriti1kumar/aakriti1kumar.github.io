@@ -1,4 +1,4 @@
-* I use [Goodreads](https://www.goodreads.com/user/show/36976329-aakriti-kumar) to keep track of the books I read.
+I use [Goodreads](https://www.goodreads.com/user/show/36976329-aakriti-kumar) to keep track of the books I read.
 This year I've set a goal of reading [36 books](https://www.goodreads.com/user_challenges/31518884).
 
 Here's my reading list from the last few years: 
@@ -8,7 +8,7 @@ Here's my reading list from the last few years:
 <br>
 <br>
 
-* I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
+I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en) of myself signing and strumming my ukelele. 
 <br>
 
 
