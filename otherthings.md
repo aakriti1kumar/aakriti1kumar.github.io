@@ -15,3 +15,6 @@ I occasionally post [videos](https://www.instagram.com/aakritikumarmusic/?hl=en)
 
 I also like to browse academic [twitter](https://twitter.com/aakriti1kumar).
 
+
+Acknowledgment:
+The template for my website is based on [Maria Antoniak's](https://maria-antoniak.github.io/) website.
