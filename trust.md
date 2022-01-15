@@ -1,4 +1,5 @@
-> > Ginny!" said Mr. Weasley, flabbergasted. "Haven't I taught you anything? What have I always told you? Never trust anything that can think for itself if you can't see where it keeps its brain?" - J.K. Rowling, Harry Potter and the Chamber of Secrets
+> > Ginny!" said Mr. Weasley, flabbergasted. "Haven't I taught you anything? What have I always told you? Never trust anything that can think for itself if you can't see where it keeps its brain?" 
+> > - J.K. Rowling, Harry Potter and the Chamber of Secrets
 
 In this [paper](trust_paper.pdf), I review work on human-machine interaction with a focus on understanding how and when humans trust machines. I use the terms machine, AI, algorithm, and decision aid interchangeably to describe a black-box model. 
 <br>
