@@ -21,7 +21,7 @@ nav:
    link: "CV.pdf"
  - name: "Projects"
    link: "projects"
-  - name: "Publications"
+ - name: "Publications"
    link: "pubs"
  - name: "Other Things"
    link: "otherthings"
