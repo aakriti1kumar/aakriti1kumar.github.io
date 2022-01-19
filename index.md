@@ -9,7 +9,7 @@ I am a Ph.D. student in the Department of Cognitive Sciences and a [Noyce fellow
 
 I'm interested in modeling the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and cognitive modeling, my past work has examined how humans incorporate AI advice in their decisions, what biases they display when using AI assistance, and how they assess the ability of an AI assistant. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras.
 
-**I’m currenlty looking for summer intern positions in the broad areas of Human-Computer Interaction and Cognitive Science.** Please reach out if you think I’d be a good fit for your industry research group.
+***I’m currenlty looking for summer intern positions in the broad areas of Human-Computer Interaction and Cognitive Science.*** Please reach out if you think I’d be a good fit for your industry research group.
 
 
 ## Updates
