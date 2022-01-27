@@ -23,7 +23,7 @@ nav:
    link: "projects"
  - name: "Publications"
    link: "pubs"
- - blog: "Blog"
+ - name: "Blog"
    link: "blog"
  - name: "Other Things"
    link: "otherthings"
