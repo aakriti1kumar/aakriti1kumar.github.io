@@ -23,8 +23,11 @@ nav:
    link: "projects"
  - name: "Publications"
    link: "pubs"
+ - blog: "Blog"
+   link: "blog"
  - name: "Other Things"
    link: "otherthings"
  - name: "Contact"
    link: "contct"
+ 
 
