@@ -9,3 +9,4 @@
 
 * ### [Learning and Retention in Large-scale Cognitive Training Data Sets](lumos.md)<br>
 
+[Check][Blog]
