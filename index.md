@@ -11,9 +11,6 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 
 
 ## Updates
-June 2022: Starting my internship at Honda Research Institute, USA
-
-May 2022: Became a Ph.D. candidate!
 
 Mar 2022: Our paper 'An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task' was accepted for publication as a full paper at [HHAI 2022](https://www.hhai-conference.org/)
 
