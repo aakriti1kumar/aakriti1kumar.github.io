@@ -5,9 +5,9 @@
 
 ## About
 
-I am a Ph.D. candidate in the Department of Cognitive Sciences and a [Noyce fellow](https://ucinoyce.org/) at UC Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction.
+I am a Ph.D. candidate in the Department of Cognitive Sciences and a [Noyce fellow](https://ucinoyce.org/) at UC Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. 
 
-I'm interested in modeling the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and cognitive modeling, my past work has examined how humans incorporate AI advice in their decisions, what biases they display when using AI assistance, and how they assess the ability of an AI assistant. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras.
+I'm interested in modeling the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and cognitive modeling, my past work has examined how humans incorporate AI advice in their decisions, what biases they display when using AI assistance, and how they assess the ability of an AI assistant. I spent Summer of 2022 at Honda Research Institute as a research intern working on situational risk assessment and driver trust prediction. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras.
 
 
 ## Updates
@@ -15,9 +15,9 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB. 
 
 Oct 2022: Our paper ['AI-assisted decision-making: A cognitive modeling approach to infer latent reliance strategies
-'](https://link.springer.com/article/10.1007/s42113-022-00157-y) was published in ['Computational Brain & Behavior'](https://www.springer.com/journal/42113)
+'](https://link.springer.com/article/10.1007/s42113-022-00157-y) was published in [Computational Brain & Behavior](https://www.springer.com/journal/42113)
 
-Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale cognitive training data sets'](https://www.nature.com/articles/s41539-022-00142-x) was published in NPJ Science of Learning
+Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale cognitive training data sets'](https://www.nature.com/articles/s41539-022-00142-x) was published in [NPJ Science of Learning](https://www.nature.com/npjscilearn/)
 
 Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Computer Interaction and Human Behavior Modeling Intern!
 
