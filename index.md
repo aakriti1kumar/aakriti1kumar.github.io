@@ -12,6 +12,15 @@ I'm interested in modeling the cognitive mechanisms that are at play when people
 
 ## Updates
 
+Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB. 
+
+Oct 2022: Our paper ['AI-assisted decision-making: A cognitive modeling approach to infer latent reliance strategies
+'](https://link.springer.com/article/10.1007/s42113-022-00157-y) was published in ['Computational Brain & Behavior'](https://www.springer.com/journal/42113)
+
+Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale cognitive training data sets'](https://www.nature.com/articles/s41539-022-00142-x) was published in NPJ Science of Learning
+
+Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Computer Interaction and Human Behavior Modeling Intern!
+
 Mar 2022: Our paper 'An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task' was accepted for publication as a full paper at [HHAI 2022](https://www.hhai-conference.org/)
 
 Dec 2021:  Awarded a fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) for 2022
