@@ -5,11 +5,13 @@
 
 ## About
 
-I am a Ph.D. candidate in the Department of Cognitive Sciences and a [Noyce fellow](https://ucinoyce.org/) at UC Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. 
+I am a Ph.D. candidate in the Department of Cognitive Sciences at the University of California, Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. 
 
-I'm interested in modeling the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and cognitive modeling, my past work has examined how humans incorporate AI advice in their decisions, what biases they display when using AI assistance, and how they assess the ability of an AI assistant. 
+I model the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and computational modeling, my work examines how humans build mental models of other humans and of artificial agents. My work is supported by the Noyce Initiative in AI, Law, and Society.
 
-I spent Summer of 2022 at [Honda Research Institute](https://usa.honda-ri.com/) working on situational risk assessment and driver trust prediction. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras.
+I spent the summer of 2022 interning at [Honda Research Institute](https://usa.honda-ri.com/), where I was hosted by [Dr. Kumar Akash](https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en). 
+
+I also hold a Master's degree in Statistics from UCI. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras, India. 
 
 
 ## Updates
