@@ -15,11 +15,11 @@ NPJ Science of Learning
 
 [**Meta-learning of Dynamic Policy Adjustments in Inhibitory Control Tasks**](https://escholarship.org/content/qt0h68d9qx/qt0h68d9qx.pdf)<br> 
 Aakriti Kumar, Soumya Chatterjee, Pradeep Shenoy (2022)<br>
-Cognitive Science 2022<b>
+Cognitive Science 2022<br>
 
 [**Explaining Algorithm Aversion with Metacognitive Bandits**](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)<br>  
 Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).    
-Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021.   
+Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021.<br>
 Cognitive Science 2021<br>
 
 **Metacognitive Bandits: When Do Humans Seek AI Assistance?**<br>        
