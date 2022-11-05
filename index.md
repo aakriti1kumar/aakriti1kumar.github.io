@@ -21,7 +21,7 @@ Oct 2022: Our paper ['AI-assisted decision-making: A cognitive modeling approach
 
 Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale cognitive training data sets'](https://www.nature.com/articles/s41539-022-00142-x) was published in [NPJ Science of Learning](https://www.nature.com/npjscilearn/)
 
-Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Computer Interaction and Human Behavior Modeling Intern!
+Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Computer Interaction and Human Behavior Modeling Intern
 
 Mar 2022: Our paper 'An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task' was accepted for publication as a full paper at [HHAI 2022](https://www.hhai-conference.org/)
 
