@@ -22,7 +22,7 @@ Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).
 Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021.   
 Cognitive Science 2021<br>
 
-**Metacognitive Bandits: When Do Humans Seek AI Assistance?**  <br>         
+**Metacognitive Bandits: When Do Humans Seek AI Assistance?**<br>        
 Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).  
 Social Intelligence in Humans and Robots Workshop, ICRA 2021.  
 Psychonomics 2021<br>
