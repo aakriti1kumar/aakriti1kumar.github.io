@@ -18,13 +18,13 @@ Aakriti Kumar, Soumya Chatterjee, Pradeep Shenoy (2022)<br>
 Cognitive Science 2022<br>
 
 [**Explaining Algorithm Aversion with Metacognitive Bandits**](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf)<br>  
-Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).    
-Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021.<br>
+Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021)<br>  
+Workshop on Human-AI Collaboration in Sequential Decision-Making, ICML 2021<br>
 Cognitive Science 2021<br>
 
 **Metacognitive Bandits: When Do Humans Seek AI Assistance?**<br>        
-Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021).  
-Social Intelligence in Humans and Robots Workshop, ICRA 2021.  
+Aakriti Kumar, Trisha Patel, Aaron Benjamin, Mark Steyvers (2021)<br>  
+Social Intelligence in Humans and Robots Workshop, ICRA 2021<br>
 Psychonomics 2021<br>
 
 [**Why Most Studies of Individual Differences With Inhibition Tasks Are Bound To Fail**](https://psyarxiv.com/3cjr5/download?format=pdf)<br>
