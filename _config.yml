@@ -17,8 +17,8 @@ sass:
 nav:
  - name: "About"
    link: "index"
- - name: "CV"
-   link: "CV.pdf"
+#  - name: "CV"
+#    link: "CV.pdf"
  - name: "Projects"
    link: "projects"
  - name: "Publications"
