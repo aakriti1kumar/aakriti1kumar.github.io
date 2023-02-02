@@ -7,7 +7,7 @@
 
 I am a Ph.D. candidate in the Department of Cognitive Sciences at the University of California, Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. 
 
-I model the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and computational modeling, my work examines how humans build mental models of other humans and of artificial agents. My work is supported by the Noyce Initiative in AI, Law, and Society.
+I model the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and computational modeling, I examine how humans build mental models of other humans and of artificial agents. My work is supported by the Noyce Initiative in AI, Law, and Society.
 
 I spent the summer of 2022 interning at [Honda Research Institute](https://usa.honda-ri.com/), where I was hosted by [Dr. Kumar Akash](https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en). 
 
@@ -15,6 +15,9 @@ I also hold a Master's degree in Statistics from UCI. Before coming to UCI, I go
 
 
 ## Updates
+
+Jan 2023: Our paper ['When Do Drivers Intervene In Autonomous Driving?
+Contrasting Drivers’ Perceived Risk Across Two Mobility Types'](https://drive.google.com/file/d/1Tku00MktmojHYEB_8_3UdTdGRnxFU36g/view?usp=share_link) was accepted for publication as a Late Breaking Report at [Human-Robot Interaction 2023](https://humanrobotinteraction.org/2023/)
 
 Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB. 
 
