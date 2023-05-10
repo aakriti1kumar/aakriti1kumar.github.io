@@ -5,13 +5,17 @@
 
 ## About
 
-I am a Ph.D. candidate in the Department of Cognitive Sciences at the University of California, Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. 
+I am a Ph.D. candidate in the Department of Cognitive Sciences at the University of California, Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. Using a mix of behavioral experiments and computational modeling, I uncover insights into how we decide to seek advice, when we rely on AI assistance, and how we understand others' knowledge. My work is supported by the Noyce Initiative in AI, Law, and Society.
 
-I model the cognitive mechanisms that are at play when people collaborate with AI agents. Using a combination of behavioral studies and computational modeling, I examine how humans build mental models of other humans and of artificial agents. My work is supported by the Noyce Initiative in AI, Law, and Society.
+I am currently working as a Human-Computer Interaction Intern at [Motional](https://motional.com/), where I am advised by [Dr. Krysta Chauncey](https://www.linkedin.com/in/krysta-chauncey). I apply principles from cognitive science to guide human factors research. Together with an amazing team of ML researchers, UX researchers, and product managers, we work on improving customers' experience with Motional's RoboTaxi. 
 
 I spent the summer of 2022 interning at [Honda Research Institute](https://usa.honda-ri.com/), where I was hosted by [Dr. Kumar Akash](https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en). 
 
 I also hold a Master's degree in Statistics from UCI. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras, India. 
+
+My academic journey has provided me with valuable experience in behavioral science research, experimental design, and data analysis. I am excited about exploring the intricate mechanisms of human behavior and cognition, applying both experimental and computational approaches. Feel free to reach out to me for collaborations or any inquiries related to my research.
+
+
 
 
 ## Updates
