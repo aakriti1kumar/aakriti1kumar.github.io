@@ -18,7 +18,6 @@ My academic journey has provided me with valuable experience in behavioral scien
 
 <br>
 <br>
-<br>
 
 
 ## Updates
