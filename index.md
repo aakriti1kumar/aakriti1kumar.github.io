@@ -16,7 +16,9 @@ I also hold a Master's degree in Statistics from UCI. Before coming to UCI, I go
 My academic journey has provided me with valuable experience in behavioral science research, experimental design, and data analysis. I am excited about exploring the intricate mechanisms of human behavior and cognition, applying both experimental and computational approaches. Feel free to reach out to me for collaborations or any inquiries related to my research!
 
 
-
+&nbsp
+&nbsp
+&nbsp
 
 
 
