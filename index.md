@@ -3,7 +3,7 @@
 
 <br>
 
-## About
+## Bio
 
 I am a Ph.D. candidate in the Department of Cognitive Sciences at the University of California, Irvine where I work with [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. Using a mix of behavioral experiments and computational modeling, I uncover insights into how we decide to seek advice, when we rely on AI assistance, and how we understand others' knowledge. My work is supported by the Noyce Initiative in AI, Law, and Society.
 
@@ -21,6 +21,8 @@ My academic journey has provided me with valuable experience in behavioral scien
 
 
 ## Updates
+
+Apr 2023: I started working as a Human-Computer Interaction Research Intern at [Motional](https://motional.com/)!
 
 Jan 2023: Our paper ['When Do Drivers Intervene In Autonomous Driving?
 Contrasting Drivers’ Perceived Risk Across Two Mobility Types'](https://drive.google.com/file/d/1Tku00MktmojHYEB_8_3UdTdGRnxFU36g/view?usp=share_link) was accepted for publication as a Late Breaking Report at [Human-Robot Interaction 2023](https://humanrobotinteraction.org/2023/)
