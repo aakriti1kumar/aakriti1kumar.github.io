@@ -29,7 +29,7 @@ Apr 2023: I started working as a Human-Computer Interaction Research Intern at [
 Jan 2023: Our paper ['When Do Drivers Intervene In Autonomous Driving?
 Contrasting Drivers’ Perceived Risk Across Two Mobility Types'](https://drive.google.com/file/d/1Tku00MktmojHYEB_8_3UdTdGRnxFU36g/view?usp=share_link) was accepted for publication as a Late Breaking Report at [Human-Robot Interaction 2023](https://humanrobotinteraction.org/2023/)
 
-Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB. 
+Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB 
 
 Oct 2022: Our paper ['AI-assisted decision-making: A cognitive modeling approach to infer latent reliance strategies
 '](https://link.springer.com/article/10.1007/s42113-022-00157-y) was published in [Computational Brain & Behavior](https://www.springer.com/journal/42113)
