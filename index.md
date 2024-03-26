@@ -20,9 +20,9 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 ## Updates
 
-Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Afents']()!
+Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Agents']()!
 
-Jan 2024: Our paper investigating people's perceptions of LLM confidence is out! Check it out - ['The Calibration Gap between Model and Human Confidence in Large Language Models'](https://arxiv.org/pdf/2401.13835.pdf)
+Jan 2024: Our paper investigating people's perceptions of LLM confidence is out! Check it out - [The Calibration Gap between Model and Human Confidence in Large Language Models](https://arxiv.org/pdf/2401.13835.pdf)
 
 Apr 2023: I started working as a Human-Computer Interaction Research Intern at [Motional](motional.com)!
 
