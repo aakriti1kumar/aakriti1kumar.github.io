@@ -41,8 +41,8 @@ hr {
  */
 
 #author-name {
-    font-size: 42px;
-    color: blue;
+    font-size: 36px;
+    color: black;
     display: inline-block;
 }
 .navbar {
@@ -111,7 +111,7 @@ img{text-align:center;width:100%}
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 650px) {
 	.navbar {
 		text-align: center;
 		padding: 50px 0px 0px 0px;
