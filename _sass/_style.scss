@@ -15,23 +15,20 @@ body {
     height: 100%;
 }
 a {
-    text-decoration: underline;
-    color: blue;
-    text-underline-offset: 3px;
-    text-decoration-color: blue;
-}
+    text-decoration:underline;
+    color:blue;
+    text-underline-offset:3px;
+    text-decoration-color:blue}
 
 a2 {
-    color: blue;
-    text-decoration-color: blue;
-}
+    color:blue;
+    text-decoration-color:blue}
 
-a:hover {
-    text-decoration: underline;
-    color: #228b22;
-    text-underline-offset: 3px;
-    text-decoration-color: blue;
-}
+a:hover{
+	text-decoration:underline;
+	color:#228b22;
+	text-underline-offset:3px;
+	text-decoration-color:blue}
 hr {
     border: 0;
     height: 0;
@@ -45,7 +42,7 @@ hr {
 
 #author-name {
     font-size: 40px;
-    color: darkgrey;
+    color:darkgrey;
     display: inline-block;
 }
 .navbar {
@@ -73,10 +70,7 @@ hr {
     float: right;
 }
 
-img {
-    text-align: right;
-    width: 50%;
-}
+img{text-align:right;width:50%}
 
 .content img {
     text-align: right;
@@ -85,12 +79,7 @@ img {
 
 /* Divs */
 
-.container {
-    font-size: 20px;
-    line-height: 150%;
-    max-width: 80%;
-    margin: auto;
-}
+.container{font-size:20px;line-height:150%;max-width:80%;margin:auto}
 .wrapper {
     min-height: 100%;
 }
@@ -98,10 +87,10 @@ img {
 /* Institute Image */
 
 #ins-logo {
-    margin: auto;
-    display: block;
-    max-height: 100px;
-    text-align: center;
+	margin: auto;
+	display: block;
+	max-height: 100px;
+	text-align: center;
 }
 
 /* Mobile */
@@ -123,50 +112,31 @@ img {
 }
 
 @media (max-width: 650px) {
-    .navbar {
-        text-align: center;
-        padding: 50px 0px 0px 0px;
-    }
-    #author-name {
-        width: 100%;
-        float: none;
-    }
-    #navlist {
-        padding: 10px 0 10px 0;
-        margin: 0;
-        display: block;
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-    #navlist li.alignable {
-        display: inline-block;
-    }
-    #navlist li.pull-left {
-        float: none;
-    }
-    #navlist li.nav-list {
-        margin: 0;
-    }
-}
-
-/* Bio Content */
-.bio-content {
-    display: flex;
-    align-items: flex-start; /* Align the items at the start (top) */
-    gap: 20px; /* Space between the image and the text */
-}
-
-.bio-image {
-    float: left; /* Float the image to the left */
-    margin-right: 20px; /* Margin on the right to separate it from the text */
-    width: 200px; /* Adjust the width as needed */
-    height: auto; /* Maintain the aspect ratio */
-}
-
-.bio-content p {
-    flex: 1; /* Allow the paragraphs to take up the remaining space */
-    text-align: justify; /* Optional: Justify the text for a cleaner look */
+	.navbar {
+		text-align: center;
+		padding: 50px 0px 0px 0px;
+	}
+	#author-name {
+		width: 100%;
+		float: none;
+	}
+	#navlist {
+		padding: 10px 0 10px 0;
+		margin: 0;
+		display: block;
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+	#navlist li.alignable {
+		display: inline-block;
+	}
+	#navlist li.pull-left {
+		float: none;
+	}
+	#navlist li.nav-list {
+		margin: 0;
+	}
 }
 
 @import "typography";
