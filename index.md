@@ -1,5 +1,5 @@
 <br>
-<p><img src="image2.jpeg" /></p>
+<p><img src="image2.JPG" /></p>
 
 <br>
 
