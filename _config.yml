@@ -25,8 +25,8 @@ nav:
    link: "pubs"
  - name: "Blog"
    link: "blog"
- - name: "Other Things"
-   link: "otherthings"
+ # - name: "Other Things"
+ #   link: "otherthings"
  - name: "Contact"
    link: "contct"
  
