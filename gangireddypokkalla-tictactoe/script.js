@@ -7,14 +7,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const images = [
         '1h.png', // Replace with actual paths to your images
+        '1h.png',
+        '2r.jpeg',
+        '2r.jpeg',
         '2r.jpeg',
         '1h.png',
         '2r.jpeg',
         '1h.png',
         '2r.jpeg',
-        '1h.png',
-        '2r.jpeg',
-        '1h.png'
     ];
 
     cells.forEach((cell, index) => {
