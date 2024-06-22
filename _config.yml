@@ -2,7 +2,7 @@ title: "Aakriti Kumar"
 url: "https://aakritikumar.com"
 baseurl: ""
 
-markdown: kramdown
+markdown: markdown
 
 tracking_id: #
 
@@ -28,6 +28,8 @@ nav:
  # - name: "Other Things"
  #   link: "otherthings"
  - name: "Contact"
-   link: "contct"
+   link: "contact"
+ - name: ".."
+   link: "gangireddypokkalla-tictactoe/index.html"
  
 
