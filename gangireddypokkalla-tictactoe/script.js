@@ -6,15 +6,15 @@ document.addEventListener('DOMContentLoaded', () => {
     let revealedCount = 0;
 
     const images = [
-        '1h.png', // Replace with actual paths to your images
-        '2r.jpeg',
+        '1h.png', 
         '1h.png',
         '2r.jpeg',
-        '1h.png',
+        '2r.jpeg',
         '2r.jpeg',
         '1h.png',
+        '1h.png',
+        '1h.png',
         '2r.jpeg',
-        '1h.png'
     ];
 
     cells.forEach((cell, index) => {
