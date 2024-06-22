@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const popup = document.createElement('div');
         popup.id = 'popup';
         popup.innerHTML = `
-            <p>Oh no, looks like this was a hoax... Thank God we still have cake!</p>
+            <p>Oh no! Looks like this was a hoax... Thank God we still have cake!</p>
             <button onclick="closePopup()">Close</button>
         `;
         document.body.appendChild(popup);
