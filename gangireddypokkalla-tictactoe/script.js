@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '2r.jpeg',
         '2r.jpeg',
         '1h.png',
-        '2r.jpeg',
+        '1h.png',
         '1h.png',
         '2r.jpeg',
     ];
