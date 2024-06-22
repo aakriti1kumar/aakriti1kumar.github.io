@@ -64,7 +64,7 @@ h1 {
 #popup {
     display: none;
     position: relative;
-    width: 250px;
+    width: 150px;
     background: white;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
