@@ -7,14 +7,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const images = [
         '1h.png', // Replace with actual paths to your images
-        '1h.png',
-        '2r.jpeg',
-        '2r.jpeg',
         '2r.jpeg',
         '1h.png',
-        '1h.png',
+        '2r.jpeg',
         '1h.png',
         '2r.jpeg',
+        '1h.png',
+        '2r.jpeg',
+        '1h.png'
     ];
 
     cells.forEach((cell, index) => {
@@ -37,9 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const popup = document.createElement('div');
         popup.id = 'popup';
         popup.innerHTML = `
-            <p>Oh no! Looks like this was a hoax... Thank God we still have cake!</p>
-            <button onclick="closePopup()">Close</button>
-        `;
+            <p>Oh no, looks like this was a hoax... Thank God we still have cake!</p>`;
         document.body.appendChild(popup);
         popup.style.display = 'block';
     }
