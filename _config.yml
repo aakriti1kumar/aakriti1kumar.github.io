@@ -29,7 +29,7 @@ nav:
  #   link: "otherthings"
  - name: "Contact"
    link: "contact"
- - name: ".."
-   link: "gangireddypokkalla-tictactoe/index.html"
+ # - name: ".."
+ #   link: "gangireddypokkalla-tictactoe/index.html"
  
 
