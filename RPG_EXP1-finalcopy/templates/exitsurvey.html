@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exit Survey</title>
+    <link rel="stylesheet" href="../static/exitsurvey.css">
+</head>
+<body>
+    <div class="exitsurvey-container">
+        <div class="exitsurvey-content">
+            <h1>Thank you for participating!</h1>
+            <p>Please rate the following statement:</p>
+            <p>Your ability to respond empathically improved over the course of the experiment</p>
+            <form id="survey-form">
+                <div class="radio-group">
+                    <input type="radio" id="Disagree" name="empathy" value="Disagree" required>
+                    <label for="Disagree">Disagree</label>
+                    <input type="radio" id="Somewhat Disagree" name="empathy" value="Somewhat Disagree">
+                    <label for="Somewhat Disagree">Somewhat Disagree</label>
+                    <input type="radio" id="Neutral" name="empathy" value="Neutral">
+                    <label for="Neutral">Neutral</label>
+                    <input type="radio" id="Somewhat Agree" name="empathy" value="Somewhat Agree">
+                    <label for="Somewhat Agree">Somewhat Agree</label>
+                    <input type="radio" id="Agree" name="empathy" value="Agree">
+                    <label for="Agree">Agree</label>
+                </div>
+                <p>Please provide any feedback you have about the experiment.</p>
+                <textarea id="feedback" rows="4" cols="50"></textarea>
+                <br>
+                <button id="end-button" type="submit">End Experiment</button>
+            </form>
+        </div>
+    </div>
+    <script src="../exitsurvey.js"></script>
+</body>
+</html>
