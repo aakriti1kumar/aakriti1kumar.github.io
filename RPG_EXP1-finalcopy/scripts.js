@@ -78,6 +78,7 @@ function displayMessage(message, sender) {
 async function getLLMResponse(userMessage) {
     try {
         const response = await fetch('http://127.0.0.1:5000/get_llm_response', {
+            mode: 'no-cors',
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
