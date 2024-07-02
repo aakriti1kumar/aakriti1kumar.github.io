@@ -13,7 +13,7 @@ import os
 
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
+CORS(app, origins=["https://aakritikumar.com"])
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///conversations.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
