@@ -22,7 +22,7 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 ## Updates
 
-Aug 2024: I started a new position as a Postdoctoral Researcher at the Kellogg School of Management and the Northwestern Institute on Complex Systems (NICO)
+Aug 2024: I started a new position as a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/)
 
 Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Agents']()!
 
