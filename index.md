@@ -5,6 +5,8 @@
 
 ## Bio
 
+I am a Postdoctoral Researcher at the Kellogg School of Management and the Northwestern Institute on Complex Systems (NICO), where I work with Dr. Matt Groh on developing AI tools that help humans build skills in empathic communication and synthetic media detection.
+
 I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. I obtain insight into humans' mental models of AI by designing robust behavioral experiments and developing computational cognitive models.  
 
 I spent most of 2023 as a Human-Computer Interaction Intern at [Motional](https://motional.com/), where I was advised by [Dr. Krysta Chauncey](https://www.linkedin.com/in/krysta-chauncey). Together with an amazing team of ML researchers, UX researchers, and product managers, we work on improving customers' experience with Motional's RoboTaxi. I also spent the summer of 2022 interning at [Honda Research Institute](https://usa.honda-ri.com/), where I was hosted by [Dr. Kumar Akash](https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en). 
@@ -19,6 +21,8 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 
 ## Updates
+
+Aug 2024: I started a new position as a Postdoctoral Researcher at the Kellogg School of Management and the Northwestern Institute on Complex Systems (NICO)
 
 Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Agents']()!
 
