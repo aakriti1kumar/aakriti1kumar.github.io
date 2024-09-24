@@ -5,7 +5,7 @@
 
 ## Bio
 
-I am a Postdoctoral Researcher at the Kellogg School of Management and the Northwestern Institute on Complex Systems (NICO), where I work with Dr. Matt Groh on developing AI tools that help humans build skills in empathic communication and synthetic media detection.
+I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/) on developing AI tools that help humans build skills in empathic communication and synthetic media detection.
 
 I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. I obtain insight into humans' mental models of AI by designing robust behavioral experiments and developing computational cognitive models.  
 
