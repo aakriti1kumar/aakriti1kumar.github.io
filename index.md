@@ -5,22 +5,31 @@
 
 ## Bio
 
-I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/) on developing AI tools that help humans build skills in empathic communication and synthetic media detection.
+I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/) on developing AI tools to help humans build skills in empathic communication and synthetic media detection. 
 
-I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). My interests lie at the intersection of cognitive science and human-computer interaction. I obtain insight into humans' mental models of AI by designing robust behavioral experiments and developing computational cognitive models.  
+My research examines the dynamics of human-AI collaboration through large-scale digital experiments, blending insights from cognitive science, human-computer interaction, and machine learning. 
 
-I spent most of 2023 as a Human-Computer Interaction Intern at [Motional](https://motional.com/), where I was advised by [Dr. Krysta Chauncey](https://www.linkedin.com/in/krysta-chauncey). Together with an amazing team of ML researchers, UX researchers, and product managers, we work on improving customers' experience with Motional's RoboTaxi. I also spent the summer of 2022 interning at [Honda Research Institute](https://usa.honda-ri.com/), where I was hosted by [Dr. Kumar Akash](https://scholar.google.com/citations?user=03uSPzAAAAAJ&hl=en). 
+I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). I also hold a Master's degree in Statistics from UCI and got my B.Tech. in Materials Engineering from IIT Madras, India. 
 
-I hold a Master's degree in Statistics from UCI. Before coming to UCI, I got my B.Tech. in Engineering from IIT Madras, India. My research experience in academic and industry settings has motivated me to bridge the gap between theoretical research and practical applications. I bring a unique interdisciplinary skill-set, making me well-suited to undertake research at the intersection of social science and artificial intelligence. 
+You can find my [CV](CV.pdf) here and my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en). 
 
 Feel free to reach out to me for collaborations or any inquiries related to my research!
-
 
 <br>
 <br>
 
 
 ## Updates
+
+Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/).
+
+Oct 2025: I gave a talk at the [DySoc Webinar at the University of Tennessee, Knoxville](https://calendar.utk.edu/event/dysoc-webinar-boosting-empathic-communication-skills-via-llm-role-playing-games).
+
+Sept 2025: I gave a talk at the [Learn Behavioral Leadership Symposium in Chicago](https://learnbehavioral.com/).
+
+May 2025: I gave a lightning talk at the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/) seminar.
+
+Feb 2025: I gave a talk at the [JTIP Symposium on Navigating Innovation, AI, and Access in a Transforming Legal Landscape](https://jtip.law.northwestern.edu/symposium/).
 
 Aug 2024: I started a new position as a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/)
 
@@ -42,11 +51,7 @@ Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale
 
 Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Behavior Modeling Intern
 
-Mar 2022: Our paper 'An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task' was accepted for publication as a full paper at [HHAI 2022](https://www.hhai-conference.org/)
-
 Dec 2021:  Awarded a fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) for 2022
-
-Nov 2021:  Presented our work on [Metacognitive Bandits and Algorithm Aversion](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf) at Psychonomics 2021
 
 <br>
 <br>
