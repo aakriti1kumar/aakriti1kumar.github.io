@@ -17,7 +17,6 @@ sass:
 nav:
  - name: "About"
    link: "index"
-
  - name: "Research"
    link: "projects"
  # - name: "Publications"
@@ -28,7 +27,7 @@ nav:
  #   link: "otherthings"
  # - name: "Contact"
    # link: "contct"
-  - name: "CV"
+ - name: "CV"
    link: "CV.pdf"
  # - name: ".."
  #   link: "RPG_EXP1-finalcopy/index.html"
