@@ -22,17 +22,24 @@ Narges Kamali, Kento Nakamura, **Aakriti Kumar**, Andreas Chatzimparmpas, Jessic
 
 ---
 
-#### [Metacognitive Bandits: When Do Humans Seek AI Assistance?](metaban.md)
-**Aakriti Kumar**, Toby Patel, Aaron Benjamin, Mark Steyvers  
-*Cognitive Science*, 2021  
-[Paper](https://escholarship.org/content/qt7xc470dt/qt7xc470dt.pdf) • [Slides](metaban.pdf)
+#### [What Large Language Models Know and What People Think They Know]((https://www.nature.com/articles/s42256-024-00976-7)
+Mark Steyvers, Heliodoro Tejeda, **Aakriti Kumar**, Sheer Karny, Xinyue Hu, Lukas Mayer, Padhraic Smyth  
+*Nature Machine Intelligence*, 2024  
+[Paper](https://www.nature.com/articles/s42256-024-00976-7)
 
 ---
 
-#### [Why Most Studies of Individual Differences With Inhibition Tasks Are Bound To Fail](p.md)
-Jeffrey Rouder, **Aakriti Kumar**, Julia Haaf  
-*Psychonomic Bulletin & Review*, 2019  
-[Paper](p.pdf)
+#### [Differentiating Mental Models of Self and Others: A Hierarchical Framework for Knowledge Assessment](https://pubmed.ncbi.nlm.nih.gov/37589709/)
+**Aakriti Kumar**, Padhraic Smyth, Mark Steyvers  
+*Psychological Review*, 2023  
+[Paper](https://pubmed.ncbi.nlm.nih.gov/37589709/)
+
+---
+
+#### [Three Challenges for AI-Assisted Decision-Making](https://journals.sagepub.com/doi/full/10.1177/17456916231181102)
+Mark Steyvers, **Aakriti Kumar**  
+*Perspectives on Psychological Science*, 2023  
+[Paper](https://journals.sagepub.com/doi/full/10.1177/17456916231181102)
 
 ---
 
