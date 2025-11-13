@@ -1,6 +1,6 @@
 * ### [Boosting People's Empathic Communication Skills with LLM Role Playing Games]()
 Aakriti Kumar, Nalin Poungpeth, Diyi Yang, Erina Farrell Bruce Lambert, Matthew Groh<br>
-[Test your empathic communication skills: Try_Lending an Ear!](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
+[Test your empathic communication skills: Try _Lending an Ear_!](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
 
 
 * ### [When Large Language Models are Reliable for Judging Empathic Communication](https://arxiv.org/abs/2506.10150)
