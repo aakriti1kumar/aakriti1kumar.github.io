@@ -21,7 +21,7 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 ## Updates
 
-Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication skills with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/). [(Try _Lending an Ear_ here to test your empathic communication skills!)](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
+Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication skills with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/) - [(Try _Lending an Ear_ here to test your empathic communication skills!)](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
 
 Oct 2025: I gave a talk at the [DySoc Webinar at the University of Tennessee, Knoxville](https://calendar.utk.edu/event/dysoc-webinar-boosting-empathic-communication-skills-via-llm-role-playing-games).
 
