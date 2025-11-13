@@ -1,14 +1,14 @@
 * ### [Boosting People's Empathic Communication Skills with LLM Role Playing Games]()
-Aakriti Kumar, Nalin Poungpeth, Diyi Yang, Erina Farrell Bruce Lambert, Matthew Groh
+Aakriti Kumar, Nalin Poungpeth, Diyi Yang, Erina Farrell Bruce Lambert, Matthew Groh<br>
 [Try Lending an Ear to improve your empathic communication skills](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
 
 
 * ### [When Large Language Models are Reliable for Judging Empathic Communication]()
-Aakriti Kumar, Nalin Poungpeth, Diyi Yang, Erina Farrell Bruce Lambert, Matthew Groh
-arXiv
+Aakriti Kumar, Nalin Poungpeth, Diyi Yang, Erina Farrell Bruce Lambert, Matthew Groh<br>
+arXiv\\
 [[replication code + data]](https://github.com/aakriti1kumar/replication-data-and-code-when-LLMs-reliable-empathic-communication)
 
-* ### [Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images](https://dl.acm.org/doi/full/10.1145/3706598.3713962)
+* ### [Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images](https://dl.acm.org/doi/full/10.1145/3706598.3713962)<br>
 [Try detecting deepfakes yourself!](https://detectfakes.kellogg.northwestern.edu/)
 
 
