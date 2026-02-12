@@ -10,7 +10,7 @@ I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www
 <br>
 My research examines how AI is reshaping the way people work and learn. Through large-scale behavioral experiments combined with computational and qualitative analysis, I pursue three interconnected goals: <br> 🔬 Developing rigorous evaluation frameworks to assess when humans and AI form effective partnerships <br>
 🧠 Designing systems that support rather than atrophy human metacognition and skill development <br>
-🤝 Understanding when and how AI can serve as a helpful companion and foster better human-human connection
+🤝 Understanding when and how AI can serve as a helpful companion and foster better human-human connection<br>
 
 
 You can find my [CV](CV.pdf) here and my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en). 
