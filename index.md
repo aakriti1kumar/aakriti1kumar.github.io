@@ -16,7 +16,6 @@ My research examines how AI is reshaping the way people work and learn. Through 
 You can find my [CV](CV.pdf) here and my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en). 
 
 Feel free to reach out to me for collaborations or any inquiries related to my research!
-
 <br>
 
 ## Updates
