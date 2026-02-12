@@ -21,7 +21,7 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 ## Updates
 Feb 2026: Our paper ['When large language models are reliable for judging empathic communication'](https://www.nature.com/articles/s42256-025-01169-6) is out in 
-Nature Machine Intelligence. <br>
+Nature Machine Intelligence! <br>
 
 Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication skills with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/). <br>
 🎮 Try [_Lending an Ear_](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg) to test your empathic communication skills!
@@ -34,27 +34,12 @@ May 2025: I gave a lightning talk at the [Northwestern Institute on Complex Syst
 
 Feb 2025: I gave a talk at the [JTIP Symposium on Navigating Innovation, AI, and Access in a Transforming Legal Landscape](https://jtip.law.northwestern.edu/symposium/).
 
+Jan 2025: Our paper investigating people's perceptions of LLM confidence is out in Nature Machine Intelligence! Check it out - [What large language models know and what people think they know]([https://arxiv.org/pdf/2401.13835.pdf](https://www.nature.com/articles/s42256-025-01169-6))
+
 Aug 2024: I started a new position as a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/)
 
 Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Agents']()!
 
-Jan 2024: Our paper investigating people's perceptions of LLM confidence is out! Check it out - [The Calibration Gap between Model and Human Confidence in Large Language Models](https://arxiv.org/pdf/2401.13835.pdf)
-
-Apr 2023: I started working as a Human-Computer Interaction Research Intern at [Motional](motional.com)!
-
-Jan 2023: Our paper ['When Do Drivers Intervene In Autonomous Driving?
-Contrasting Drivers’ Perceived Risk Across Two Mobility Types'](https://drive.google.com/file/d/1Tku00MktmojHYEB_8_3UdTdGRnxFU36g/view?usp=share_link) was accepted for publication as a Late Breaking Report at [Human-Robot Interaction 2023](https://humanrobotinteraction.org/2023/)
-
-Nov 2022: Presented our work on AI-assisted Decision-Making at the Noyce Symposium, UCSB 
-
-Oct 2022: Our paper ['AI-assisted decision-making: A cognitive modeling approach to infer latent reliance strategies
-'](https://link.springer.com/article/10.1007/s42113-022-00157-y) was published in [Computational Brain & Behavior](https://www.springer.com/journal/42113)
-
-Oct 2022: Our paper ['Comparing models of learning and relearning in large-scale cognitive training data sets'](https://www.nature.com/articles/s41539-022-00142-x) was published in [NPJ Science of Learning](https://www.nature.com/npjscilearn/)
-
-Jun 2022: Started my internship at [Honda Research Insititute](https://usa.honda-ri.com/) in San Jose as a Human Behavior Modeling Intern
-
-Dec 2021:  Awarded a fellowship by the [Irvine Initiative in AI, Law, and Society](https://ucinoyce.org/) for 2022
 
 <br>
 <br>
