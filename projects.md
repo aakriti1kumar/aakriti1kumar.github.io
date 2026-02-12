@@ -1,6 +1,6 @@
 ### Selected Projects & Publications
 
-**You can my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en)**
+### You can check out my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en)**
 ---
 
 #### [Boosting People's Empathic Communication Skills with LLM Role Playing Games](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
