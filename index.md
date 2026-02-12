@@ -12,14 +12,12 @@ My research examines how AI is reshaping the way people work and learn. Through 
 🧠 Designing systems that support rather than atrophy human metacognition and skill development <br>
 🤝 Understanding when and how AI can serve as a helpful companion and foster better human-human connection
 
-<br>
+
 You can find my [CV](CV.pdf) here and my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en). 
 
 Feel free to reach out to me for collaborations or any inquiries related to my research!
 
 <br>
-<br>
-
 
 ## Updates
 Feb 2026: Our paper ['When large language models are reliable for judging empathic communication'](https://www.nature.com/articles/s42256-025-01169-6) is out in 
