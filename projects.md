@@ -1,8 +1,9 @@
 ### Selected Projects & Publications
 
+**You can my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en)**
 ---
 
-#### [Boosting People's Empathic Communication Skills with LLM Role Playing Games]()
+#### [Boosting People's Empathic Communication Skills with LLM Role Playing Games](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg)
 
 **Aakriti Kumar**, Nalin Poungpeth, Diyi Yang, Erina Farrell, Bruce Lambert, Matthew Groh  
 
@@ -10,11 +11,11 @@
 
 ---
 
-#### [When Large Language Models are Reliable for Judging Empathic Communication](https://arxiv.org/abs/2506.10150)
+#### [When Large Language Models are Reliable for Judging Empathic Communication](https://www.nature.com/articles/s42256-025-01169-6)
 
 **Aakriti Kumar**, Nalin Poungpeth, Diyi Yang, Erina Farrell, Bruce Lambert, Matthew Groh  
 
-*Nature Machine Intelligence* (accepted)  
+*Nature Machine Intelligence, 2026*   
 
 📊 [Replication code + data](https://github.com/aakriti1kumar/replication-data-and-code-when-LLMs-reliable-empathic-communication)
 
