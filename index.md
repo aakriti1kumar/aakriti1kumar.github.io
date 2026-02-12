@@ -5,7 +5,7 @@
 
 ## Bio
 
-I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/) on developing AI tools to help humans build skills in empathic communication and synthetic media detection. 
+I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/). 
 
 My research examines how AI is reshaping the way people work and learn. Through large-scale behavioral experiments combined with computational and qualitative analysis, I pursue three interconnected goals: (1) developing rigorous evaluation frameworks to assess when humans and AI form effective partnerships, (2) designing interactions that support rather than atrophy human metacognition and skill development, and (3) understanding when and how AI can serve as a helpful companion and foster better human-human connection. 
 
@@ -20,6 +20,8 @@ Feel free to reach out to me for collaborations or any inquiries related to my r
 
 
 ## Updates
+Feb 2026: Our paper ['When large language models are reliable for judging empathic communication'](https://www.nature.com/articles/s42256-025-01169-6) is out in 
+Nature Machine Intelligence. <br>
 
 Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication skills with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/). <br>
 🎮 Try [_Lending an Ear_](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg) to test your empathic communication skills!
