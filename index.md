@@ -8,8 +8,8 @@
 I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/). I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). I also hold a Master's degree in Statistics from UCI and got my B.Tech. in Materials Engineering from IIT Madras, India. 
 
 <br><br>
-My research examines how AI is reshaping the way people work and learn. Through large-scale behavioral experiments combined with computational and qualitative analysis, I pursue three interconnected goals: <br><br> 🔬 Developing rigorous evaluation frameworks to assess when humans and AI form effective partnerships <br><br>
-🧠 Designing systems that support rather than atrophy human metacognition and skill development <br><br>
+My research examines how AI is reshaping the way people work and learn. Through large-scale behavioral experiments combined with computational and qualitative analysis, I pursue three interconnected goals: <br> 🔬 Developing rigorous evaluation frameworks to assess when humans and AI form effective partnerships <br>
+🧠 Designing systems that support rather than atrophy human metacognition and skill development <br>
 🤝 Understanding when and how AI can serve as a helpful companion and foster better human-human connection. 
 
 <br><br>
