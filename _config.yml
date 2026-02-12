@@ -27,8 +27,8 @@ nav:
    # link: "contct"
  - name: "CV"
    link: "CV.pdf"
- - name: "Blog"
-   link: "blog"
+ # - name: "Blog"
+ #   link: "blog"
  # - name: ".."
  #   link: "RPG_EXP1-finalcopy/index.html"
  
