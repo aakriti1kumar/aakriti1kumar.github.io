@@ -68,7 +68,7 @@ img.hero-photo {
     }
 }
 
-.section-head {
+h2.section-head {
     font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -90,6 +90,7 @@ img.hero-photo {
     aspect-ratio: 1 / 1;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
     transition: border-color 0.15s ease, transform 0.15s ease;
     &:hover { border-color: darken($hairline, 14%); transform: translateY(-2px); }
     h3 {
@@ -101,6 +102,17 @@ img.hero-photo {
     }
 }
 .card-icon { font-size: 20px; color: $sienna; }
+.content .card-fig,
+img.card-fig {
+    width: 100% !important;
+    height: 42%;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 8px;
+    border: 1px solid $hairline;
+    margin: 0;
+    flex-shrink: 0;
+}
 .venue-pill {
     display: inline-block;
     font-size: 12.5px;
@@ -127,46 +139,58 @@ img.hero-photo {
     margin-top: 14px;
 }
 
-.news-list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-.news-item {
+.news-strip {
     display: flex;
-    gap: 18px;
-    padding: 11px 0;
-    border-bottom: 1px solid $hairline;
-    &:last-child { border-bottom: none; }
+    gap: 14px;
+    overflow-x: auto;
+    padding: 4px 2px 14px 2px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    &::-webkit-scrollbar { height: 8px; }
+    &::-webkit-scrollbar-thumb { background: $hairline; border-radius: 4px; }
+}
+.news-panel {
+    flex: 0 0 300px;
+    scroll-snap-align: start;
+    border: 1px solid $hairline;
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
 }
 .news-date {
     font-family: "Roboto Mono", monospace;
     font-size: 13px;
     color: $muted;
-    flex: 0 0 76px;
-    padding-top: 3px;
-    white-space: nowrap;
+    margin-bottom: 8px;
 }
 .news-text {
     font-size: 16px;
     line-height: 1.55;
     color: $ink;
+    margin: 0 0 10px 0;
 }
-.news-embed {
+.content .news-embed,
+iframe.news-embed {
     display: block;
     width: 100%;
-    max-width: 504px;
+    height: 340px;
     border: 1px solid $hairline;
     border-radius: 10px;
-    margin-top: 10px;
+    margin: 0 0 10px 0;
 }
-
 .news-link {
     color: $sienna;
     text-decoration: none;
-    white-space: nowrap;
-    margin-left: 6px;
+    margin-top: auto;
+    font-size: 16px;
     &:hover { text-decoration: underline; }
+}
+.news-hint {
+    font-size: 13px;
+    color: $muted;
+    margin-top: 2px;
+    i { margin-right: 4px; }
 }
 
 @media (max-width: 600px) {
