@@ -28,9 +28,10 @@ img.hero-photo {
     margin: 0;
 }
 .tagline {
-    font-family: "Fraunces", Georgia, serif;
+    font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
     font-size: 25px;
     line-height: 1.45;
+    font-weight: 500;
     color: $ink;
     margin: 0 0 18px 0;
     font-weight: 400;
@@ -42,7 +43,7 @@ img.hero-photo {
     display: inline-block;
     background: $sienna-tint;
     color: $sienna-dark;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.5;
     padding: 8px 14px;
     border-radius: 10px;
@@ -61,16 +62,16 @@ img.hero-photo {
     a {
         color: $ink;
         text-decoration: none;
-        font-size: 15.5px;
+        font-size: 16px;
         i { color: $sienna; margin-right: 4px; }
         &:hover { color: $sienna; text-decoration: underline; text-decoration-color: $sienna; }
     }
 }
 
 .section-head {
-    font-family: "Fraunces", Georgia, serif;
+    font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 20px;
     color: $ink;
     margin: 44px 0 16px 0;
     padding-top: 20px;
@@ -89,7 +90,7 @@ img.hero-photo {
     transition: border-color 0.15s ease, transform 0.15s ease;
     &:hover { border-color: darken($hairline, 14%); transform: translateY(-2px); }
     h3 {
-        font-size: 16.5px;
+        font-size: 16px;
         line-height: 1.4;
         margin: 10px 0 8px 0;
         font-weight: 600;
@@ -106,18 +107,18 @@ img.hero-photo {
 .pill-pub { background: $green-tint; color: $green-text; }
 .pill-review { background: $amber-tint; color: $amber-text; }
 .card-blurb {
-    font-size: 14px;
+    font-size: 16px;
     color: $muted;
     line-height: 1.5;
     margin: 10px 0 0 0;
 }
 .card-demo {
     margin: 10px 0 0 0;
-    font-size: 14px;
+    font-size: 16px;
     a { color: $sienna; text-decoration: none; &:hover { text-decoration: underline; } }
 }
 .see-all {
-    font-size: 14.5px;
+    font-size: 16px;
     color: $muted;
     margin-top: 14px;
 }
@@ -135,15 +136,15 @@ img.hero-photo {
     &:last-child { border-bottom: none; }
 }
 .news-date {
-    font-family: "IBM Plex Mono", monospace;
-    font-size: 12.5px;
+    font-family: "Roboto Mono", monospace;
+    font-size: 13px;
     color: $muted;
     flex: 0 0 76px;
     padding-top: 3px;
     white-space: nowrap;
 }
 .news-text {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.55;
     color: $ink;
 }
