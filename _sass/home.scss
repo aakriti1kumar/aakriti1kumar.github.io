@@ -18,10 +18,14 @@ $amber-text: #854f0b;
     margin: 8px 0 12px 0;
 }
 .hero-text { flex: 1; }
-.hero-photo {
-    width: 205px;
+.content .hero-photo,
+img.hero-photo {
+    width: 205px !important;
+    max-width: 40%;
+    height: auto;
     border-radius: 14px;
     flex-shrink: 0;
+    margin: 0;
 }
 .tagline {
     font-family: "Fraunces", Georgia, serif;
@@ -32,7 +36,6 @@ $amber-text: #854f0b;
     font-weight: 400;
 }
 .tagline-em {
-    font-style: italic;
     color: $sienna;
 }
 .market-badge {
@@ -154,7 +157,7 @@ $amber-text: #854f0b;
 
 @media (max-width: 600px) {
     .hero { flex-direction: column-reverse; gap: 20px; }
-    .hero-photo { width: 160px; }
+    .content .hero-photo, img.hero-photo { width: 160px !important; max-width: 60%; }
     .work-grid { grid-template-columns: 1fr; }
     .tagline { font-size: 21px; }
 }
