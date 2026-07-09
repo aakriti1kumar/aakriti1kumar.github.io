@@ -5,7 +5,7 @@ layout: default
 <div class="hero">
   <div class="hero-text">
     <p class="tagline">I'm a <span class="tagline-em">cognitive scientist</span> studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
-    <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> On the 2026&ndash;27 academic job market &mdash; <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department!</p>
+    <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> On the 2026&ndash;27 academic job market! Please <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department</p>
     <ul class="quick-links">
       <li><a href="CV.pdf" target="_blank"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a></li>
       <li><a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Scholar</a></li>
@@ -49,6 +49,7 @@ layout: default
     <span class="news-date">{{ n.date }}</span>
     <span class="news-text">{{ n.text }}
     {% if n.link %}<a class="news-link" href="{{ n.link }}">{% if n.linkedin %}<i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> {% endif %}{{ n.link_text | default: "Read more" }} &rarr;</a>{% endif %}
+    {% if n.embed %}<iframe class="news-embed" src="{{ n.embed }}" height="{{ n.embed_height | default: 400 }}" frameborder="0" allowfullscreen title="Embedded LinkedIn post"></iframe>{% endif %}
     </span>
   </li>
 {% endfor %}
