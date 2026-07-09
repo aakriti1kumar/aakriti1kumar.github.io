@@ -17,6 +17,12 @@ layout: default
   <img class="hero-photo" src="profile.jpg" alt="Aakriti Kumar" />
 </div>
 
+<p>I'm a cognitive scientist studying human&ndash;AI collaboration, focused on the interplay between metacognition and AI. I'm currently a Postdoctoral Researcher at the <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a> and the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a>, working with <a href="https://mattgroh.com/">Dr. Matt Groh</a>, where I study empathic communication and AI evaluations that support human metacognition. I approach these questions through large-scale lab, digital, and field experiments in real-world settings, combining behavioral data with computational and qualitative analysis. My work spans organizational behavior, AI, and human&ndash;computer interaction.</p>
+
+<p>I earned my PhD in Cognitive Science from UC Irvine, advised by <a href="https://steyvers.socsci.uci.edu/">Dr. Mark Steyvers</a>, along with an MS in Statistics from UCI and a B.Tech. from IIT Madras. My dissertation, "Human Mental Models of Self, Others, and AI Agents", explored how people infer what a collaborator knows, how good they are at a task, and when to rely on their advice. Using hierarchical Bayesian and item response theory models, I showed that the mental models people build of AI differ systematically from those they build of other humans; for example, people who accurately gauge another person's abilities consistently overestimate an AI's. Along the way, I've also worked in industry at Honda Research Institute and Motional (a robotaxi startup), and collaborated with researchers at Google Research India.</p>
+
+<p>I'm always happy to chat about research, please <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
+
 <h2 class="section-head">Selected work</h2>
 
 <div class="work-grid">
@@ -32,13 +38,6 @@ layout: default
 
 <p class="see-all">See all publications on <a href="projects">the research page</a> or <a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en">Google Scholar</a>.</p>
 
-<h2 class="section-head">Background</h2>
-
-<p>I'm a cognitive scientist turned human&ndash;AI collaboration researcher, focused on the interplay between metacognition and AI. I'm currently a Postdoctoral Researcher at the <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a> and the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a>, working with <a href="https://mattgroh.com/">Dr. Matt Groh</a>, where I study empathic communication and AI evaluations that support human metacognition. I approach these questions through large-scale lab, digital, and field experiments in real-world settings, combining behavioral data with computational and qualitative analysis. My work spans organizational behavior, AI, and human&ndash;computer interaction.</p>
-
-<p>I earned my PhD in Cognitive Science from UC Irvine, advised by <a href="https://steyvers.socsci.uci.edu/">Dr. Mark Steyvers</a>, along with an MS in Statistics from UCI and a B.Tech. from IIT Madras. My dissertation, "Human Mental Models of Self, Others, and AI Agents", explored how people infer what a collaborator knows, how good they are at a task, and when to rely on their advice. Using hierarchical Bayesian and item response theory models, I showed that the mental models people build of AI differ systematically from those they build of other humans; for example, people who accurately gauge another person's abilities consistently overestimate an AI's. Along the way, I've also worked in industry at Honda Research Institute and Motional (a robotaxi startup), and collaborated with researchers at Google Research India.</p>
-
-<p>I'm always happy to chat about research, please <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
 
 <h2 class="section-head">News</h2>
 
