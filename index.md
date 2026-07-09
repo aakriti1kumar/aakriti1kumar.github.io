@@ -5,7 +5,7 @@ layout: default
 <div class="hero">
   <div class="hero-text">
     <p class="tagline">I'm a <span class="tagline-em">cognitive scientist</span> studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
-    <p class="tagline"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> I'm on the 2026&ndash;27 academic job market! I’d love to connect if my research fits your department.</p>  
+    <p class="tagline"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> I'm on the 2026&ndash;27 job market! </p>  
     <ul class="quick-links">
       <li><a href="CV.pdf" target="_blank"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a></li>
       <li><a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Scholar</a></li>
