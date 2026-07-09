@@ -1,0 +1,42 @@
+# Cards shown in "Selected work" on the homepage.
+# Fields:
+#   title, link:      paper title and where it points
+#   venue:            e.g. "Nature Machine Intelligence, 2026" or "Under review"
+#   status:           "published" | "review"  (controls pill color)
+#   icon:             a Font Awesome class, e.g. "fa-solid fa-gamepad"
+#   blurb:            one short line under the title (optional)
+#   demo_text, demo_link:  optional call-to-action row at the bottom
+
+- title: "Boosting people's empathic communication skills with LLM role playing games"
+  link: "https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg"
+  venue: "Under review"
+  status: "review"
+  icon: "fa-solid fa-gamepad"
+  blurb: "An RCT (N=968) testing whether AI coaching and practice improve how people support each other."
+  demo_text: "Try Lending an Ear"
+  demo_link: "https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg"
+
+- title: "When large language models are reliable for judging empathic communication"
+  link: "https://www.nature.com/articles/s42256-025-01169-6"
+  venue: "Nature Machine Intelligence, 2026"
+  status: "published"
+  icon: "fa-solid fa-scale-balanced"
+  blurb: "When can LLM judgments of empathy stand in for expert and crowd judgments?"
+  demo_text: "Replication code + data"
+  demo_link: "https://github.com/aakriti1kumar/replication-data-and-code-when-LLMs-reliable-empathic-communication"
+
+- title: "What large language models know and what people think they know"
+  link: "https://www.nature.com/articles/s42256-024-00976-7"
+  venue: "Nature Machine Intelligence, 2024"
+  status: "published"
+  icon: "fa-solid fa-brain"
+  blurb: "The calibration gap: people systematically overestimate LLM confidence."
+
+- title: "Characterizing photorealism and artifacts in diffusion model-generated images"
+  link: "https://dl.acm.org/doi/full/10.1145/3706598.3713962"
+  venue: "CHI 2025"
+  status: "published"
+  icon: "fa-solid fa-image"
+  blurb: "How photorealistic are diffusion models, and what artifacts give them away?"
+  demo_text: "Try detecting deepfakes"
+  demo_link: "https://detectfakes.kellogg.northwestern.edu/"
