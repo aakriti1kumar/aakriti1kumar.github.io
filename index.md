@@ -4,7 +4,7 @@ layout: default
 
 <div class="hero">
   <div class="hero-text">
-    <p class="tagline">I'm a cognitive scientist studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
+    <p class="tagline">I'm a <span class="tagline-em">cognitive scientist</span> studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
     <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> On the 2026&ndash;27 academic job market &mdash; <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department!</p>
     <ul class="quick-links">
       <li><a href="CV.pdf" target="_blank"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a></li>
@@ -37,9 +37,9 @@ layout: default
 
 <p>I'm currently a Postdoctoral Researcher at the <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a> and the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a>, working with <a href="https://mattgroh.com/">Dr. Matt Groh</a>. I study these questions through large-scale behavioral experiments combined with computational and qualitative analysis. My work spans organizational behavior, AI, and human&ndash;computer interaction.</p>
 
-<p>I earned my PhD in Cognitive Science from UC Irvine, advised by <a href="https://steyvers.socsci.uci.edu/">Dr. Mark Steyvers</a>, along with an MS in Statistics from UCI and a B.Tech. from IIT Madras. My dissertation, <em>Human Mental Models of Self, Others, and AI Agents</em>, developed hierarchical Bayesian frameworks for understanding how people form beliefs about what AI systems can and cannot do. Along the way, I've also worked in industry at Google Research India, Honda Research Institute, and Motional.</p>
+<p>I earned my PhD in Cognitive Science from UC Irvine, advised by <a href="https://steyvers.socsci.uci.edu/">Dr. Mark Steyvers</a>, along with an MS in Statistics from UCI and a B.Tech. from IIT Madras. My dissertation, "Human Mental Models of Self, Others, and AI Agents," asked a question at the heart of any collaboration: how do people figure out what a collaborator knows, how good they are at a task, and when to rely on their advice? Using hierarchical Bayesian and item response theory models, I showed that the mental models people build of AI differ systematically from those they build of other humans &mdash; for example, people who accurately gauge another person's abilities consistently overestimate an AI's. Along the way, I've also worked in industry at Honda Research Institute and Motional (a robotaxi startup), and collaborated with researchers at Google Research India.</p>
 
-<p>I'm always happy to hear from potential collaborators &mdash; <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
+<p>I'm always happy to chat about research and other things, please <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
 
 <h2 class="section-head">News</h2>
 
