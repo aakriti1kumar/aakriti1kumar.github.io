@@ -5,15 +5,17 @@
 
 ## Bio
 
-I am a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), where I work with [Dr. Matt Groh](https://mattgroh.com/). I earned my PhD in Cognitive Science from the University of California, Irvine, where I was advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/). I also hold a Master's degree in Statistics from UCI and got my B.Tech. in Materials Engineering from IIT Madras, India. 
+I'm a cognitive scientist studying human-AI collaboration: when partnerships with AI work, when they erode human skill, and how AI can strengthen rather than replace human connection.
 
+I study these questions through large-scale behavioral experiments combined with computational and qualitative analysis. My work spans organizational behavior, AI, and human-computer interaction.
+
+**I am on the 2026–27 academic job market!** Please reach out if you think my work would be a good fit for your department — I'd love to connect.
 <br>
-My research examines how AI is reshaping the way people work and learn. I combine large-scale behavioral experiments with computational and qualitative analysis to pursue three interconnected goals: 1) developing rigorous evaluation frameworks to assess when humans and AI form effective partnerships, 2) designing systems that support rather than atrophy human metacognition and skill development, and 3) understanding when and how AI can serve as a helpful companion and foster better human-human connection. <br>
 
-<br>
-You can find my [CV](CV.pdf) here and my publications on [Google scholar](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en). 
 
-Feel free to reach out to me for collaborations or any inquiries related to my research!
+I am currently a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), working with [Dr. Matt Groh](https://mattgroh.com/). I earned my PhD in Cognitive Science from UC Irvine, advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/), along with an MS in Statistics from UCI and a B.Tech. from IIT Madras.
+
+You can find my [CV](CV.pdf) and [publications](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en) here. I'm always happy to hear from potential collaborators — reach out!
 <br>
 
 ## Updates
