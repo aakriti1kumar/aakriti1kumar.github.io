@@ -1,0 +1,51 @@
+# Add news by adding an entry at the TOP of this list.
+# Fields:
+#   date:  shown as-is (e.g. "Feb 2026")
+#   text:  the news item (markdown links NOT supported here; use link/link_text)
+#   link:  optional URL (a paper, a talk page, or a LinkedIn post URL)
+#   link_text: optional label for the link (defaults to "Read more")
+#   linkedin: true  -> shows a LinkedIn icon next to the link
+#
+# Example of a LinkedIn post as news:
+# - date: "Mar 2026"
+#   text: "I wrote about what our empathy RCT taught us about AI coaching."
+#   link: "https://www.linkedin.com/posts/aakriti1kumar_your-post-url-here"
+#   link_text: "Read on LinkedIn"
+#   linkedin: true
+
+- date: "Feb 2026"
+  text: "Our paper 'When large language models are reliable for judging empathic communication' is out in Nature Machine Intelligence!"
+  link: "https://www.nature.com/articles/s42256-025-01169-6"
+  link_text: "Read the paper"
+
+- date: "Nov 2025"
+  text: "I presented my ongoing work on boosting people's empathic communication skills with LLM role playing games at CODE@MIT."
+  link: "https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/"
+  link_text: "Conference"
+
+- date: "Oct 2025"
+  text: "I gave a talk at the DySoc Webinar at the University of Tennessee, Knoxville."
+  link: "https://calendar.utk.edu/event/dysoc-webinar-boosting-empathic-communication-skills-via-llm-role-playing-games"
+  link_text: "Details"
+
+- date: "Sept 2025"
+  text: "I gave a talk at the Learn Behavioral Leadership Symposium in Chicago."
+  link: "https://learnbehavioral.com/"
+
+- date: "May 2025"
+  text: "I gave a lightning talk at the Northwestern Institute on Complex Systems (NICO) seminar."
+
+- date: "Feb 2025"
+  text: "I gave a talk at the JTIP Symposium on Navigating Innovation, AI, and Access in a Transforming Legal Landscape."
+  link: "https://jtip.law.northwestern.edu/symposium/"
+
+- date: "Jan 2025"
+  text: "Our paper investigating people's perceptions of LLM confidence is out in Nature Machine Intelligence!"
+  link: "https://www.nature.com/articles/s42256-024-00976-7"
+  link_text: "Read the paper"
+
+- date: "Aug 2024"
+  text: "I started a new position as a Postdoctoral Researcher at the Kellogg School of Management and the Northwestern Institute on Complex Systems (NICO)."
+
+- date: "Mar 2024"
+  text: "I defended my PhD thesis, 'Human Mental Models of Self, Others, and AI Agents'!"
