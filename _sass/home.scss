@@ -20,10 +20,12 @@ $amber-text: #854f0b;
 .hero-text { flex: 1; }
 .content .hero-photo,
 img.hero-photo {
-    width: 205px !important;
-    max-width: 40%;
-    height: auto;
-    border-radius: 14px;
+    width: 240px !important;
+    height: 240px;
+    max-width: 42%;
+    object-fit: cover;
+    object-position: 50% 18%;
+    border-radius: 50%;
     flex-shrink: 0;
     margin: 0;
 }
@@ -81,22 +83,20 @@ h2.section-head {
 .work-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 16px;
+    gap: 14px;
 }
 .work-card {
     border: 1px solid $hairline;
     border-radius: 12px;
-    padding: 20px;
-    aspect-ratio: 1 / 1;
+    padding: 16px;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
     transition: border-color 0.15s ease, transform 0.15s ease;
     &:hover { border-color: darken($hairline, 14%); transform: translateY(-2px); }
     h3 {
         font-size: 16px;
-        line-height: 1.4;
-        margin: 12px 0 8px 0;
+        line-height: 1.35;
+        margin: 0 0 8px 0;
         font-weight: 500;
         a { color: $ink; text-decoration: none; &:hover { color: $sienna; } }
     }
@@ -105,16 +105,17 @@ h2.section-head {
 .content .card-fig,
 img.card-fig {
     width: 100% !important;
-    height: 42%;
+    height: 120px;
     object-fit: cover;
     object-position: top;
     border-radius: 8px;
     border: 1px solid $hairline;
-    margin: 0;
+    margin: 10px 0 0 0;
     flex-shrink: 0;
 }
 .venue-pill {
     display: inline-block;
+    align-self: flex-start;
     font-size: 12.5px;
     padding: 2px 10px;
     border-radius: 999px;
@@ -122,13 +123,14 @@ img.card-fig {
 .pill-pub { background: $green-tint; color: $green-text; }
 .pill-review { background: $amber-tint; color: $amber-text; }
 .card-blurb {
+    display: none;
     font-size: 16px;
     color: $muted;
     line-height: 1.5;
     margin: 10px 0 0 0;
 }
 .card-demo {
-    margin: auto 0 0 0;
+    margin: 0;
     padding-top: 10px;
     font-size: 16px;
     a { color: $sienna; text-decoration: none; &:hover { text-decoration: underline; } }
@@ -195,8 +197,9 @@ iframe.news-embed {
 
 @media (max-width: 600px) {
     .hero { flex-direction: column-reverse; gap: 20px; }
-    .content .hero-photo, img.hero-photo { width: 160px !important; max-width: 60%; }
-    .work-grid { grid-template-columns: 1fr; }
+    .content .hero-photo, img.hero-photo { width: 180px !important; height: 180px; max-width: 60%; }
+    .work-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .work-card { aspect-ratio: auto; min-height: 0; }
+    .card-blurb { display: block; }
     .tagline { font-size: 21px; }
 }
