@@ -12,6 +12,30 @@
 #   link: "https://www.linkedin.com/posts/aakriti1kumar_your-post-url-here"
 #   link_text: "Read on LinkedIn"
 #   linkedin: true
+#
+# To show the actual post inline (LinkedIn's official embed):
+# on your post, click "..." -> "Embed this post" -> copy the src URL from the iframe code,
+# then add:
+#   embed: "https://www.linkedin.com/embed/feed/update/urn:li:share:XXXXXXXXXX"
+#   embed_height: 500   # optional, default 400; match what LinkedIn's embed code suggests
+
+- date: "Jul 2026"
+  text: "I'm co-organizing a symposium at AOM 2026 with Matt Groh: 'Augmenting Human Potential with Generative AI: Opportunities & Risks' — Tuesday, August 4, Philadelphia. Come join us!"
+  linkedin: true
+  embed: "https://www.linkedin.com/embed/feed/update/urn:li:share:7479905506472407040"
+  embed_height: 1076
+
+- date: "May 2026"
+  text: "I'll be presenting at the 'Generative AI as a Window into Organizations' PDW at AOM 2026 — consider submitting an extended abstract!"
+  linkedin: true
+  embed: "https://www.linkedin.com/embed/feed/update/urn:li:share:7465520112578736130"
+  embed_height: 600
+
+- date: "Mar 2026"
+  text: "Nicholas Thompson (CEO, The Atlantic) shared a great summary of our work on AI and empathic communication."
+  linkedin: true
+  embed: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7442669974265081856"
+  embed_height: 984
 
 - date: "Feb 2026"
   text: "Our paper 'When large language models are reliable for judging empathic communication' is out in Nature Machine Intelligence!"
