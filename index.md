@@ -22,7 +22,7 @@ layout: default
 <div class="work-grid">
 {% for w in site.data.selected_work %}
   <div class="work-card">
-    <i class="{{ w.icon }} card-icon" aria-hidden="true"></i>
+    {% if w.figure %}<img class="card-fig" src="{{ w.figure }}" alt="{{ w.figure_alt | default: w.title }}" />{% else %}<i class="{{ w.icon }} card-icon" aria-hidden="true"></i>{% endif %}
     <h3><a href="{{ w.link }}">{{ w.title }}</a></h3>
     <span class="venue-pill {% if w.status == 'review' %}pill-review{% else %}pill-pub{% endif %}">{{ w.venue }}</span>
     {% if w.blurb %}<p class="card-blurb">{{ w.blurb }}</p>{% endif %}
@@ -43,14 +43,14 @@ layout: default
 
 <h2 class="section-head">News</h2>
 
-<ul class="news-list">
+<div class="news-strip">
 {% for n in site.data.news %}
-  <li class="news-item">
+  <div class="news-panel">
     <span class="news-date">{{ n.date }}</span>
-    <span class="news-text">{{ n.text }}
+    <p class="news-text">{{ n.text }}</p>
+    {% if n.embed %}<iframe class="news-embed" src="{{ n.embed }}" frameborder="0" allowfullscreen title="Embedded LinkedIn post"></iframe>{% endif %}
     {% if n.link %}<a class="news-link" href="{{ n.link }}">{% if n.linkedin %}<i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> {% endif %}{{ n.link_text | default: "Read more" }} &rarr;</a>{% endif %}
-    {% if n.embed %}<iframe class="news-embed" src="{{ n.embed }}" height="{{ n.embed_height | default: 400 }}" frameborder="0" allowfullscreen title="Embedded LinkedIn post"></iframe>{% endif %}
-    </span>
-  </li>
+  </div>
 {% endfor %}
-</ul>
+</div>
+<p class="news-hint"><i class="fa-solid fa-arrow-right-arrow-left" aria-hidden="true"></i> Scroll sideways for more news</p>
