@@ -5,7 +5,7 @@ layout: default
 <div class="hero">
   <div class="hero-text">
     <p class="tagline">I'm a <span class="tagline-em">cognitive scientist</span> studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
-    <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> I'm on the 2026&ndash;27 academic job market! Please <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department</p>
+    <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> On the 2026&ndash;27 academic job market! Please <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department</p>
     <ul class="quick-links">
       <li><a href="CV.pdf" target="_blank"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a></li>
       <li><a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Scholar</a></li>
@@ -22,10 +22,9 @@ layout: default
 <div class="work-grid">
 {% for w in site.data.selected_work %}
   <div class="work-card">
-    {% if w.figure %}<img class="card-fig" src="{{ w.figure }}" alt="{{ w.figure_alt | default: w.title }}" />{% else %}<i class="{{ w.icon }} card-icon" aria-hidden="true"></i>{% endif %}
-    <h3><a href="{{ w.link }}">{{ w.title }}</a></h3>
+    <h3><a href="{{ w.link }}">{{ w.short_title | default: w.title }}</a></h3>
     <span class="venue-pill {% if w.status == 'review' %}pill-review{% else %}pill-pub{% endif %}">{{ w.venue }}</span>
-    {% if w.blurb %}<p class="card-blurb">{{ w.blurb }}</p>{% endif %}
+    {% if w.figure %}<img class="card-fig" src="{{ w.figure }}" alt="{{ w.figure_alt | default: w.title }}" />{% endif %}
     {% if w.demo_link %}<p class="card-demo"><a href="{{ w.demo_link }}">{{ w.demo_text }} <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>{% endif %}
   </div>
 {% endfor %}
