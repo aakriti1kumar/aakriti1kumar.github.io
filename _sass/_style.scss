@@ -11,24 +11,26 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Lato";
+    font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+    color: #21201c;
     height: 100%;
 }
 a {
     text-decoration:underline;
-    color:blue;
+    color:#9a4a1e;
     text-underline-offset:3px;
-    text-decoration-color:blue}
+    text-decoration-color:#d9b49a}
 
 a2 {
-    color:blue;
-    text-decoration-color:blue}
+    color:#21201c;
+    font-family: "Fraunces", Georgia, serif;
+    text-decoration-color:#21201c}
 
 a:hover{
 	text-decoration:underline;
-	color:#228b22;
+	color:#7c3a16;
 	text-underline-offset:3px;
-	text-decoration-color:blue}
+	text-decoration-color:#7c3a16}
 hr {
     border: 0;
     height: 0;
