@@ -1,5 +1,7 @@
 # Cards shown in "Selected work" on the homepage.
 # Fields:
+#   figure, figure_alt:  optional image shown at the top of the card (path relative to site root,
+#                        e.g. "images/fig-llm-judges.png"); the icon is shown when no figure is set
 #   title, link:      paper title and where it points
 #   venue:            e.g. "Nature Machine Intelligence, 2026" or "Under review"
 #   status:           "published" | "review"  (controls pill color)
@@ -12,6 +14,8 @@
   venue: "Under review"
   status: "review"
   icon: "fa-solid fa-gamepad"
+  figure: "images/fig-lend-an-ear.jpg"
+  figure_alt: "Annotated conversation showing empathic and misattuned responses to someone who lost their job"
   blurb: "An RCT (N=968) testing whether AI coaching and practice improve how people support each other."
   demo_text: "Try Lending an Ear"
   demo_link: "https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg"
@@ -21,6 +25,8 @@
   venue: "Nature Machine Intelligence, 2026"
   status: "published"
   icon: "fa-solid fa-scale-balanced"
+  figure: "images/fig-llm-judges.jpg"
+  figure_alt: "Inter-rater reliability (weighted Cohen's kappa) of experts, LLMs, and crowds across empathy subcomponents"
   blurb: "When can LLM judgments of empathy stand in for expert and crowd judgments?"
   demo_text: "Replication code + data"
   demo_link: "https://github.com/aakriti1kumar/replication-data-and-code-when-LLMs-reliable-empathic-communication"
@@ -30,6 +36,8 @@
   venue: "Nature Machine Intelligence, 2024"
   status: "published"
   icon: "fa-solid fa-brain"
+  figure: "images/fig-calibration.jpg"
+  figure_alt: "Diagram of how people estimate an LLM's confidence from its answers and explanations"
   blurb: "The calibration gap: people systematically overestimate LLM confidence."
 
 - title: "Characterizing photorealism and artifacts in diffusion model-generated images"
@@ -37,6 +45,8 @@
   venue: "CHI 2025"
   status: "published"
   icon: "fa-solid fa-image"
+  figure: "images/fig-detectfakes.jpg"
+  figure_alt: "Screenshot of the AI-generated or Real experiment interface"
   blurb: "How photorealistic are diffusion models, and what artifacts give them away?"
   demo_text: "Try detecting deepfakes"
   demo_link: "https://detectfakes.kellogg.northwestern.edu/"
