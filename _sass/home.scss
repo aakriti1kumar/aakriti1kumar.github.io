@@ -43,9 +43,9 @@ img.hero-photo {
     display: inline-block;
     background: $sienna-tint;
     color: $sienna-dark;
-    font-size: 16px;
-    line-height: 1.5;
-    padding: 8px 14px;
+    font-size: 25px;
+    line-height: 1.45;
+    padding: 10px 16px;
     border-radius: 10px;
     margin: 0 0 18px 0;
     i { margin-right: 4px; }
@@ -86,14 +86,17 @@ img.hero-photo {
 .work-card {
     border: 1px solid $hairline;
     border-radius: 12px;
-    padding: 18px 18px 14px 18px;
+    padding: 20px;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    flex-direction: column;
     transition: border-color 0.15s ease, transform 0.15s ease;
     &:hover { border-color: darken($hairline, 14%); transform: translateY(-2px); }
     h3 {
         font-size: 16px;
         line-height: 1.4;
-        margin: 10px 0 8px 0;
-        font-weight: 600;
+        margin: 12px 0 8px 0;
+        font-weight: 500;
         a { color: $ink; text-decoration: none; &:hover { color: $sienna; } }
     }
 }
@@ -113,7 +116,8 @@ img.hero-photo {
     margin: 10px 0 0 0;
 }
 .card-demo {
-    margin: 10px 0 0 0;
+    margin: auto 0 0 0;
+    padding-top: 10px;
     font-size: 16px;
     a { color: $sienna; text-decoration: none; &:hover { text-decoration: underline; } }
 }
@@ -148,6 +152,15 @@ img.hero-photo {
     line-height: 1.55;
     color: $ink;
 }
+.news-embed {
+    display: block;
+    width: 100%;
+    max-width: 504px;
+    border: 1px solid $hairline;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
 .news-link {
     color: $sienna;
     text-decoration: none;
@@ -160,5 +173,6 @@ img.hero-photo {
     .hero { flex-direction: column-reverse; gap: 20px; }
     .content .hero-photo, img.hero-photo { width: 160px !important; max-width: 60%; }
     .work-grid { grid-template-columns: 1fr; }
+    .work-card { aspect-ratio: auto; min-height: 0; }
     .tagline { font-size: 21px; }
 }
