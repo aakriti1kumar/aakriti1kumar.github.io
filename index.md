@@ -1,44 +1,55 @@
-<br>
-<p><img src="image.jpg" /></p>
+---
+layout: default
+---
 
-<br>
+<div class="hero">
+  <div class="hero-text">
+    <p class="tagline">I'm a cognitive scientist studying <span class="tagline-em">human&ndash;AI collaboration</span>: when partnerships with AI work, when they erode human skill, and how AI can strengthen human connection.</p>
+    <p class="market-badge"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> On the 2026&ndash;27 academic job market &mdash; <a href="mailto:aakriti1kumar@gmail.com">reach out</a> if my work fits your department!</p>
+    <ul class="quick-links">
+      <li><a href="CV.pdf" target="_blank"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a></li>
+      <li><a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> Scholar</a></li>
+      <li><a href="mailto:aakriti1kumar@gmail.com"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Email</a></li>
+      <li><a href="https://github.com/aakriti1kumar"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/aakriti1kumar/"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> LinkedIn</a></li>
+    </ul>
+  </div>
+  <img class="hero-photo" src="profile.jpg" alt="Aakriti Kumar" />
+</div>
 
-## Bio
+<h2 class="section-head">Selected work</h2>
 
-I'm a cognitive scientist studying human-AI collaboration: when partnerships with AI work, when they erode human skill, and how AI can strengthen rather than replace human connection.
+<div class="work-grid">
+{% for w in site.data.selected_work %}
+  <div class="work-card">
+    <i class="{{ w.icon }} card-icon" aria-hidden="true"></i>
+    <h3><a href="{{ w.link }}">{{ w.title }}</a></h3>
+    <span class="venue-pill {% if w.status == 'review' %}pill-review{% else %}pill-pub{% endif %}">{{ w.venue }}</span>
+    {% if w.blurb %}<p class="card-blurb">{{ w.blurb }}</p>{% endif %}
+    {% if w.demo_link %}<p class="card-demo"><a href="{{ w.demo_link }}">{{ w.demo_text }} <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>{% endif %}
+  </div>
+{% endfor %}
+</div>
 
-I study these questions through large-scale behavioral experiments combined with computational and qualitative analysis. My work spans organizational behavior, AI, and human-computer interaction.
+<p class="see-all">See all publications on <a href="projects">the research page</a> or <a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en">Google Scholar</a>.</p>
 
-**I am on the 2026–27 academic job market!** Please reach out if you think my work would be a good fit for your department — I'd love to connect.
-<br>
+<h2 class="section-head">Background</h2>
 
+<p>I'm currently a Postdoctoral Researcher at the <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a> and the <a href="https://www.nico.northwestern.edu/">Northwestern Institute on Complex Systems (NICO)</a>, working with <a href="https://mattgroh.com/">Dr. Matt Groh</a>. I study these questions through large-scale behavioral experiments combined with computational and qualitative analysis. My work spans organizational behavior, AI, and human&ndash;computer interaction.</p>
 
-I am currently a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), working with [Dr. Matt Groh](https://mattgroh.com/). I earned my PhD in Cognitive Science from UC Irvine, advised by [Dr. Mark Steyvers](https://steyvers.socsci.uci.edu/), along with an MS in Statistics from UCI and a B.Tech. from IIT Madras.
+<p>I earned my PhD in Cognitive Science from UC Irvine, advised by <a href="https://steyvers.socsci.uci.edu/">Dr. Mark Steyvers</a>, along with an MS in Statistics from UCI and a B.Tech. from IIT Madras. My dissertation, <em>Human Mental Models of Self, Others, and AI Agents</em>, developed hierarchical Bayesian frameworks for understanding how people form beliefs about what AI systems can and cannot do. Along the way, I've also worked in industry at Google Research India, Honda Research Institute, and Motional.</p>
 
-You can find my [CV](CV.pdf) and [publications](https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en) here. I'm always happy to hear from potential collaborators — reach out!
-<br>
+<p>I'm always happy to hear from potential collaborators &mdash; <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
 
-## Updates
-Feb 2026: Our paper ['When large language models are reliable for judging empathic communication'](https://www.nature.com/articles/s42256-025-01169-6) is out in 
-Nature Machine Intelligence! <br>
+<h2 class="section-head">News</h2>
 
-Nov 2025: I'm presenting my ongoing work on boosting people's empathic communication skills with LLM role playing games at the [CODE@MIT conference](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/). <br>
-🎮 Try [_Lending an Ear_](https://human-ai-collaboration-lab.kellogg.northwestern.edu/rpg) to test your empathic communication skills!
-
-Oct 2025: I gave a talk at the [DySoc Webinar at the University of Tennessee, Knoxville](https://calendar.utk.edu/event/dysoc-webinar-boosting-empathic-communication-skills-via-llm-role-playing-games).
-
-Sept 2025: I gave a talk at the [Learn Behavioral Leadership Symposium in Chicago](https://learnbehavioral.com/).
-
-May 2025: I gave a lightning talk at the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/) seminar.
-
-Feb 2025: I gave a talk at the [JTIP Symposium on Navigating Innovation, AI, and Access in a Transforming Legal Landscape](https://jtip.law.northwestern.edu/symposium/).
-
-Jan 2025: Our paper investigating people's perceptions of LLM confidence is out in Nature Machine Intelligence! Check it out - [What large language models know and what people think they know]([https://arxiv.org/pdf/2401.13835.pdf](https://www.nature.com/articles/s42256-025-01169-6))
-
-Aug 2024: I started a new position as a Postdoctoral Researcher at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/)
-
-Mar 2024: I defended my PhD thesis titled ['Human Mental Models of Self, Others, and AI Agents']()!
-
-
-<br>
-<br>
+<ul class="news-list">
+{% for n in site.data.news %}
+  <li class="news-item">
+    <span class="news-date">{{ n.date }}</span>
+    <span class="news-text">{{ n.text }}
+    {% if n.link %}<a class="news-link" href="{{ n.link }}">{% if n.linkedin %}<i class="fa-brands fa-linkedin-in" aria-hidden="true"></i> {% endif %}{{ n.link_text | default: "Read more" }} &rarr;</a>{% endif %}
+    </span>
+  </li>
+{% endfor %}
+</ul>
