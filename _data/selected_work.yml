@@ -59,3 +59,25 @@
       url: "https://dl.acm.org/doi/full/10.1145/3706598.3713962"
     - text: "Detect Fakes!"
       url: "https://detectfakes.kellogg.northwestern.edu/"
+
+- title: "Differentiating mental models of self and others: A hierarchical framework for knowledge assessment"
+  link: "https://psycnet.apa.org/manuscript/2023-98727-001.pdf"
+  authors: "<strong>Aakriti Kumar</strong>, Padhraic Smyth, Mark Steyvers"
+  venue: "Psychological Review, 2023"
+  figure: "fig-mental-models.jpg"
+  figure_alt: "Hierarchical generative model relating population ability, self and other ability, task difficulty, and knowledge signals"
+  blurb: "A hierarchical Bayesian framework for how people build distinct mental models of their own knowledge and others'."
+  links:
+    - text: "paper"
+      url: "https://psycnet.apa.org/manuscript/2023-98727-001.pdf"
+
+- title: "Three challenges for AI-assisted decision-making"
+  link: "https://journals.sagepub.com/doi/full/10.1177/17456916231181102"
+  authors: "Mark Steyvers, <strong>Aakriti Kumar</strong>"
+  venue: "Perspectives on Psychological Science, 2024"
+  figure: "fig-ai-challenges.jpg"
+  figure_alt: "Table of real-world AI-assisted decision-making examples mapped to three collaboration challenges"
+  blurb: "Complementarity, mental models of AI, and interaction design as the core challenges for human–AI decision-making."
+  links:
+    - text: "paper"
+      url: "https://journals.sagepub.com/doi/full/10.1177/17456916231181102"
