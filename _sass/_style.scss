@@ -83,15 +83,7 @@ img{text-align:right;width:50%}
 
 /* Divs */
 
-.container{
-    font-size:16px;
-    line-height:160%;
-    max-width: $max-width;
-    width: 100%;
-    margin: auto;
-    padding: 0 28px;
-    box-sizing: border-box;
-}
+.container{font-size:16px;line-height:160%;max-width:80%;margin:auto}
 .wrapper {
     min-height: 100%;
 }
