@@ -25,16 +25,7 @@ layout: default
 
 <h2 class="section-head">Selected Publications</h2>
 
-<div class="work-grid">
-{% for w in site.data.selected_work %}
-  <div class="work-card">
-    <h3><a href="{{ w.link }}">{{ w.short_title | default: w.title }}</a></h3>
-    <span class="venue-pill {% if w.status == 'review' %}pill-review{% else %}pill-pub{% endif %}">{{ w.venue }}</span>
-    {% if w.figure %}<img class="card-fig" src="{{ w.figure }}" alt="{{ w.figure_alt | default: w.title }}" />{% endif %}
-    {% if w.demo_link %}<p class="card-demo"><a href="{{ w.demo_link }}">{{ w.demo_text }} <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>{% endif %}
-  </div>
-{% endfor %}
-</div>
+{% include selected_publications.html %}
 
 <p class="see-all">See all publications on <a href="projects">the research page</a> or <a href="https://scholar.google.com/citations?user=XFM1ItgAAAAJ&hl=en">Google Scholar</a>.</p>
 

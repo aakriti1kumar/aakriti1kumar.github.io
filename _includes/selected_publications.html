@@ -1,0 +1,20 @@
+<div class="pub-list">
+{% for w in site.data.selected_work %}
+  <article class="pub-item">
+    {% if w.figure %}
+    <a class="pub-thumb-link" href="{{ w.link }}">
+      <img class="pub-thumb" src="{{ site.baseurl }}/{{ w.figure }}" alt="{{ w.figure_alt | default: w.title | escape }}" width="96" height="96" />
+    </a>
+    {% endif %}
+    <div class="pub-body">
+      <a class="pub-title" href="{{ w.link }}">{{ w.title }}</a>
+      {% if w.authors %}<p class="pub-authors">{{ w.authors }}</p>{% endif %}
+      <p class="pub-venue">{{ w.venue }}{% if w.award %} <span class="pub-award">{{ w.award }}</span>{% endif %}</p>
+      {% if w.links %}
+      <p class="pub-links">{% for l in w.links %}<a href="{{ l.url }}">{{ l.text }}</a>{% unless forloop.last %} / {% endunless %}{% endfor %}</p>
+      {% endif %}
+      {% if w.blurb %}<p class="pub-blurb">{{ w.blurb }}</p>{% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>
