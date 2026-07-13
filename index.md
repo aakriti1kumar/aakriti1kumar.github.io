@@ -23,7 +23,7 @@ layout: default
 
 <p>I'm always happy to chat about research, please <a href="mailto:aakriti1kumar@gmail.com">reach out</a>!</p>
 
-<h2 class="section-head">Selected work</h2>
+<h2 class="section-head">Selected Publications</h2>
 
 <div class="work-grid">
 {% for w in site.data.selected_work %}
