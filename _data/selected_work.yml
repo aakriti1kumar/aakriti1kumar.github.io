@@ -49,7 +49,7 @@
 
 - title: "Characterizing photorealism and artifacts in diffusion model-generated images"
   link: "https://dl.acm.org/doi/full/10.1145/3706598.3713962"
-  authors: "Narges Kamali, Kento Nakamura, <strong>Aakriti Kumar</strong>, Andreas Chatzimparmpas, Jessica Hullman, Matthew Groh"
+  authors: "Negar Kamali, Karyn Nakamura, <strong>Aakriti Kumar</strong>, Angelos Chatzimparmpas, Jessica Hullman, Matthew Groh"
   venue: "CHI 2025"
   figure: "fig-detectfakes.jpg"
   figure_alt: "Screenshot of the AI-generated or Real experiment interface"
